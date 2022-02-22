@@ -1,4 +1,4 @@
->Acer rubrum
+>Acer rubrum|GPAGA 102
 ---------- ---------- ------aagt gttggattca aagccggtgt taaagattat
 aaattgactt -attatactc ctgactatgt aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggggttccgc ccgaggaagc cggggccgcg gtagctgcgg
@@ -12,7 +12,7 @@ tatccgctaa gaactatggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ttctttacat ttattgcgat tcttt----- -cttcatgag t------att
-ttaattgtaa tag---tctt attactc--- ---caaagaa atcaa----- -a------tt
+ttaattgtaa tag---tctt attac----- -tccaaagaa atcaa----- -a------tt
 cc-------- -attttt--- ---tcaacaa g---taatcc aagatttttc ttgttcctat
 ataattctca tgtatatgaa tatgaatcaa tcttcttttt tctccgtaac caatcttctc
 atttacgatc aacatcttca ggactccttt ttgagcgaat ttctttttat ggaaaagtag
@@ -29,7 +29,7 @@ attcttatat tatcgaccgg tttatgcgta tatgcagaaa tctttctcat tatcacagcg
 gatcttcaaa aaaaaagagt ttgtatagaa taaaata--- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ampelopsis arborea
+>Ampelopsis arborea|rbcL|HQ644040
 ---------- ---------- ------tttt gttggattca aagccggtgt taaagattac
 agattgactt -attatactc ctgaatatga gaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ccgaagaagc aggggccgcg gtagctgctg
@@ -60,7 +60,7 @@ attatgatat tatcgaccga tttgtgcgta tatgcagaaa tatttctcat tatcacagc-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cerastium glomeratum
+>Cerastium glomeratum|GPAGA 471
 ---------- ---------- ------aagt gttggattta aagctggtgt taaagattac
 aaattgactt -attatactc ctgagtatga aacccnggat acggatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccac ccgaagaagc aggggccgca gtagccgccg
@@ -74,7 +74,7 @@ ataaattgaa caagtatggc cgtcccctat tgggatg--- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- -------cgg tactgggtga
 aagatgcccc gtctttgcat ctattacgat tcttt----- -ctttatgaa t------ctc
-ataattgcaa tag---tctt ataaaaa--- ---aaaataa atatt----- -t------at
+ataattgcaa tag---tctt ataaa----- -aaaaaataa atatt----- -t------at
 tt-------- -tttttt--- ---ataaaaa g---gactca aagatttttt ttgttcttat
 ataatttcca tgtatgtgaa cacgaattta ttttattgtt tctttgcaac caatcctctc
 atttacgatc aacatcttac agatcctttc ttgaacgcac ttttttctac agaaaattag
@@ -91,7 +91,7 @@ attctgatat tattgatcga tttgggctta tatgccaaaa tctttttcat tattacagtg
 gctcttcaag aaaaaagagt ttgtatcgac taaagtatat acttaaa--- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Crotalaria lanceolata
+>Crotalaria_lanceolata lanceolata|GPAGA 49
 ---------- ---------- ------aagt gttgggttca aagccggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaagat actgatat-c ttagcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc aggtgctgcg gtagctgccg
@@ -122,7 +122,7 @@ attttgatat tattgaccga tttttgcgca tatgtagaaa tctttctcat tattacaac-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cynodon dactylon
+>Cynodon_dactylon dactylon|GPAGA 110
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagcct ggggttccgg ctgaagaagc aggggctgca gtagctgcgg
@@ -136,7 +136,7 @@ tatccgcaaa aaattatggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------c
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcca----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -cttttg--- ---aaaaaag a---aaataa aagactatct cgattcctat
 ataactctta tgtatcggaa tacgaatttt tcctgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct cgcacctttc tggaacgaat ccacttttct aggaagacgg
@@ -153,7 +153,7 @@ attgggatat tctggatcgc tttggtcgga tatgtagaaa tctttttcat tatcatagtg
 gatcctcgaa aaaacagact ttgtatcgac taaaatatat acttcgactt tcatgtgcta
 gaactttag- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Nerium oleander
+>DBFZP014-19|Nerium_2 oleander|rbcL
 ---------- ---------- ---------- ---------- ---------- ----------
 ---ttgactt -attatactc ctgaatacga aactaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccac ccgaagaagc aggggccgcg gtagctgccg
@@ -167,7 +167,7 @@ tatcagctaa aaactacggt agggcagttt atgaatgtct tc-------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- -tattacgat tcttt----- -ctacacgag t------att
-gtaattgcaa taa---tctt attgcta--- ---caaagaa aacca----- -g-----ttt
+gtaattgcaa taa---tctt attgc----- -tacaaagaa aacca----- -g-----ttt
 tc-------- -atttttta- ---acaaaaa g---aaatca aagattcttc ttcttgttat
 ataattttta tgtatgtgaa tacgaatcca ttttcgtctt tctccataac caatcttctc
 atttacgacc aacatccttt ggggtccttc ttgaacgaat ctatttctat ggaaaaatag
@@ -184,7 +184,7 @@ attctgatat tatggacaga tttgggcgta tatgcagaaa cctttctcat tatcatagcg
 gatcttccaa aaaaaagagt ttgtatcgaa taaagtatat acttcgactt tcttgtgcta
 aaact----- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Digitaria ciliaris
+>Digitaria_ciliaris ciliaris|GPAGA 11
 ---------- ---------- ------aagt gttggattta aagctggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -215,7 +215,7 @@ ctcaattttg tactggatcg gggcatccta ttagtaaacc cgtttggacc gattta----
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Eragrostis minor
+>Eragrostis_minor minor|GPAGA 114
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtggctgcgg
@@ -229,7 +229,7 @@ tatccgcaaa aaattacggt agagcatgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- --ttggttca actccttgac taccggatcc
 aagatgtttc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcca----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -cttttt--- ---tcaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat catcttttct aggaagatgg
@@ -246,7 +246,7 @@ attgggatat tcttgatcgc tttggtcgga tatgtagaaa tctttttcat tatcatagtg
 gatcttcgaa aaaaaggact ttgtatcgag taaaatatat ac-------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Eragrostis secundiflora
+>Eragrostis_secundiflora secundiflora|GPAGA 73
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actataccc cggaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtggctgcgg
@@ -277,7 +277,7 @@ attgggatat tcttgatcgc tttggtcgga tatgtagaaa tctttttcat tatcatagt-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Erigeron canadensis
+>Erigeron canadensis|GPAGA 43
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -308,7 +308,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttct--- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Euphorbia maculata
+>Euphorbia_maculata maculata|GPAGA 94
 ---------- ---------- ------aagt gttggattca aggctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaggaagc aggagctgcg gtagctgctg
@@ -322,7 +322,7 @@ tatccgctaa gaattacggt agagcggttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- -tgtcagatg
 tattaatacc ttaccccatt catctcgaaa aattggtcca aacccttcgt tattggttga
 aagacccttc ttatttgcat tttttacgac tcttt----- -cttcatcag t------att
-ggagttggaa cag---tctt attattc--- ---cacagaa atcaa----- -t------tt
+ggagttggaa cag---tctt attat----- -tccacagaa atcaa----- -t------tt
 ct-------- -attttt--- ---cgaaaaa a---aaatcc aagatttttc ttgttcctat
 ataattctca tatatatgaa tatgaatcca tcttcttttt tctccgtaat cagtgctttc
 atttacgatc aacattttct cgcgtctttc ttgaacgaat ttttttctat ggaaaaatag
@@ -339,7 +339,7 @@ attctgatat tatcgaccaa tttgtccgta tatgcagaaa tttttctcat tattata---
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Euphorbia nutans
+>Euphorbia_nutans nutans|GPAGA 3
 ---------- ---------- ------aagt gttggattca aggctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaggaagc aggagctgcg gtagctgctg
@@ -353,7 +353,7 @@ tatccgctaa gaattatggt cgagcggttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 --------tc ttatttgcat tttttacgac tcttt----- -cttcatcag t------att
-ggagttggaa cag---tctt attattc--- ---cacagaa atcaa----- -t------tt
+ggagttggaa cag---tctt attat----- -tccacagaa atcaa----- -t------tt
 ct-------- -attttt--- ---cgaaaaa a---aaatcc aagatttttc ttgttcctat
 ataattctca tatatatgaa tatgaatcca tcttcttttt tctccgtaat cagtgctttc
 atttacgatc aacattttct cgcgtctttc ttgaacgaat ttttttctat ggaaaaatag
@@ -370,7 +370,7 @@ attctgatat tatcgaccaa tttgtccgta tatgcagaaa tttttctcat tatta-----
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Vicia hirsuta
+>FBPL2775-13|Vicia hirsuta|rbcLa
 ---------- ---------- -------aag gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc cagaatatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaag tcctcaacct ggagttccgc ctgaagaagc aggtgcagcc gtagctgccg
@@ -384,7 +384,7 @@ tatccgctaa gaattatggt agagcagttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- --ttagttca aatccttcga tactgggtga
 aagatgcccc tttttttcat ttattacggc tgttt----- -ctttataat t------ttt
-ctaataggaa tag---tttt attacta--- ---gcaaaaa atcaa----- -t------tt
+ctaataggaa tag---tttt attac----- -tagcaaaaa atcaa----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---gaatcc aagattcttc ttgttcctct
 ataattttta tgtatgtgaa tatgaatcta tcttcgtttt tctacgtaat aaatcctctc
 atttacgatt aaaatctttt agcatttttt ttgagcgaat ttttttttat gcaaaaagag
@@ -401,7 +401,7 @@ attttgatat tattgaccga tttttgcgaa tatgcagaaa tatttctcat tattataatg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Gamochaeta pensylvanica
+>Gamochaeta pensylvanica|GPAGA 191
 ---------- ---------- ---------- ---------- ---------- --aagattat
 aaattgactt -attatactc ctgagtatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct gganttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -432,7 +432,7 @@ attctgatat tattgagcgg tttgggcgta tatacagaaa tctttctcat tatcata---
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ginkgo biloba
+>Ginkgo biloba|rbcLa|KX283354
 ---------- ---------- ------aagt gtcggattta aagctggtgt taaagattac
 agattgactt -attatactc ctgaatatca aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagtgccac ctgaggaagc gggagctgca gtagctgccg
@@ -446,7 +446,7 @@ tatctgccaa aaattatggt agagcagttt acgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- --ctttacac ttatcacgat ctgtt----- -ctccacgaa c---------
----atcggaa tag---ttcg gagaatt--- ---tgtataa atcga----- --------tt
+---atcggaa tag---ttcg gagaa----- -tttgtataa atcga----- --------tt
 ctc------- -atcgct--- ---ccggaag g---aaatac aaagttcttt ctgtttctgt
 ggaattatta tgcttatgaa tgtgaatctc tcctagttcc ccttcggaaa cgatcttctc
 attcacgatt gttgtcctat ggagcttttc tcgagcaaat tcattcttat cgaaagatcg
@@ -463,7 +463,7 @@ atgatgatat tcttgatcga ttcgatcgaa tttgtagaaa cattattgat tactacagtg
 gatctttcaa taaagatggt tcatatcgga tgaagtatat actccgactt ccatgtgcta
 aaactttagc ctgtagacat aaaagtacga tacgtgtagt ttgggaagaa ttcggttcgg
 aactatttac gaaatcgttc cccaaagagg gagaattaa
->Glandularia tenera
+>GPAGA001-17|Glandularia aristigera|GPAGA 145
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aagttgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggctgcg gtagctgccg
@@ -477,7 +477,7 @@ tatctgctaa aaactatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catgtggaaa tcttggttca aactcttcgc tattgggtaa
 aagatgcctc ttctttgcat tttttacgat tcttt----- -ctcaacgag t------att
-ctaattggaa tag---tgtt attactc--- ---caacgaa agcta----- -g------tt
+ctaattggaa tag---tgtt attac----- -tccaacgaa agcta----- -g------tt
 cc-------- -tctttt--- ---tcaaaga g---aaatca aagactattc ttattcttat
 ataattctca tgtatgtgaa tatgaatcca ttttcgtctt tctacgtaac caatcttctt
 atttacgatc aacatcttct ggagttcttc ttgaacgaat ctatttctat ggaaaaataa
@@ -494,7 +494,7 @@ attcgaatat tcttgaccgg tttgggcgta tatgcagaaa tctttctcat tatcatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Helenium amarum
+>GPAGA002-17|Helenium amarum|GPAGA 147
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatataa aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc gggggccgca gtagctgccg
@@ -525,7 +525,7 @@ attctgatat tattgagcgc tttggccgta tatacagaaa tctttctcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Crotalaria incana
+>GPAGA006-17|Crotalaria incana|GPAGA 155
 ---------- ---------- ------aagt gttggattca aagccggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ctagcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc aggtgctgcg gtagctgccg
@@ -539,7 +539,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tcgtggttca aacctttcga tactgggtga
 aagatgcctt tttccttcac ttattaaggt tgttt----- -ctttatgag t------att
-gtaattggaa tag---tctt attactc--- ---caaaaaa atcga----- -t------tt
+gtaattggaa tag---tctt attac----- -tccaaaaaa atcga----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---taatcc aagatttttc ttgttcctat
 ataattttta tgtatgtgaa tacgaatcta tctttctttt tctaagtaat aaatcgtctt
 atttacgatt aacatctttt agcgttcttt ttgagagaat ctatttctat gaaaaaatag
@@ -556,7 +556,7 @@ attttgatat tattgaccga tttttgcgca tatgtagaaa tctttctcat tattacaacg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Plantago lanceolata
+>GPAGA007-17|Plantago lanceolata|GPAGA 157
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attatactc cggaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tccacaacct ggagttccgc cggaagaagc aggggctgcg gtagcggccg
@@ -570,7 +570,7 @@ tatctgctaa aaactatggt agagcatgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catgcagaaa tcctggttca aacccttcgc tattgggtaa
 aagatgcccc ttctttgcat ttcttacgat ttttt----- -ctcaacgac t------att
-g--------- gag---tctt agtactc--- ---caaagaa agccg----- -g------t-
+g--------- gag---tctt agtac----- -tccaaagaa agccg----- -g------t-
 ---------- ---------- ---ttaaaac g---aaatca aagattcttt ttattcttat
 ataattctca tgtatgtgaa tacgaatcca ttttcgtatt tttacgtaac caatcttctc
 atttacaatc actctctttt ggagttcttc ttgaacgaat ctatttctac ggaaaaatag
@@ -587,7 +587,7 @@ attcaaatat tataaaccga tttgggcata tatgcagaaa tatttctcat tattatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Erigeron bonariensis
+>GPAGA008-17|Erigeron bonariensis|GPAGA 159
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -618,7 +618,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Oenothera laciniata
+>GPAGA009-17|Oenothera laciniata|GPAGA 161
 ---------- ---------- ------aagt gttggattca aagccggcgt taaagattat
 aaactgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tcagagtaac tcctcaacct ggagttccgc ctgaggaagc aggggctgca gtagctgccg
@@ -649,7 +649,7 @@ attctgatat tatcgaccga tttgtgcgta tatgcagaaa tctttctcat tatcacagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Verbena brasiliensis
+>GPAGA010-17|Verbena brasiliensis|GPAGA 163
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aagttgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggctgcg gtagctgccg
@@ -663,7 +663,7 @@ tatctgctaa aaactatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catgtggaaa tcttggttca aactcttcgc tattgggtaa
 aagatgcctc ttctttgcat tttttacgat tcttt----- -ctcaacgag t------att
-gtaattggaa tag---tgtt attactc--- ---caacgaa agcta----- -g------tt
+gtaattggaa tag---tgtt attac----- -tccaacgaa agcta----- -g------tt
 cc-------- -tctttt--- ---tcaaaga g---aaatca aagattattc ttattcttat
 ataattctca tgtatgtgaa tatgaatcca ttttcgtctt tctacgtaac caatcttctt
 atttacgatc aacatcttct ggagttcttc ttgaacgaat ctatttctat ggaaaaataa
@@ -680,7 +680,7 @@ attcgaatat tcttgaccgg tttgggcgta tatgcagaaa tctttctcat tatcatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Echinochloa colona
+>GPAGA012-17|Echinochloa colona|GPAGA 167
 ---------- ---------- ------aagt gttggattta aagctggggt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -694,7 +694,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttagaaa tcctggtgca actccttgaa taccggattc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcta----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcta----- -t------tt
 tt-------- -cttttg--- ---aaaaaag a---aaataa aagactattt caattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct tggaagatgg
@@ -711,7 +711,7 @@ attgggatat tcttgatcg- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyclospermum leptophyllum
+>GPAGA013-17|Cyclospermum leptophyllum|GPAGA 169
 ---------- ---------- ------aggt gttggattca aagctggggt taaagattac
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc gggggccgcg gtagctgccg
@@ -725,7 +725,7 @@ tatccgctaa aaactacggt agagcggttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tattggttca aactcttcgc tactgggtaa
 aagacgcttc ttctttacat ttattaagat tcttt----- -ctccacgag t------atc
-gtagttggaa tac---tc-- ---------- ---caaataa agcca----- -g------tt
+gtagttggaa tac------- ---------- -tccaaataa agcca----- -g------tt
 ct-------- -tgtttt--- ---tcaaaaa a---aaatca aaggtttttc ttcgtcctat
 ataattctca tctatgtgaa tacgaatcca tcttcgtctt tcttcgtaac caatcttctc
 atttatgctc aacgtcttct ggaacccttc ttgaacgaat ctttttctat ggaaaactag
@@ -742,7 +742,7 @@ attctgatat tgttgtccga tttgggcgta tctgcagaaa tctttctcat tattatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Solidago leavenworthii
+>GPAGA014-17|Solidago leavenworthii|GPAGA 171
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -773,7 +773,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sorghum halepense
+>GPAGA016-17|Sorghum halepense|GPAGA 175
 ---------- ---------- ------aagt gttggattta aagctggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagctc ggggttccgc ctgaagaagc aggagctgca gtagctgcgg
@@ -787,7 +787,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttagaaa tcctggttca actccttgaa taccggattc
 aagatgttcc ctctttgcat ttattgcgat tcttt----- -ctccactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcca----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -cttttg--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat catcttttct gggaagatgg
@@ -804,7 +804,7 @@ tgttagtaag gaatcaaatg ctggagaatt cttttctaat ------agat actcg-----
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Campsis radicans
+>GPAGA017-17|Campsis radicans|GPAGA 177
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attatactc ctgaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgcg gtagctgccg
@@ -818,7 +818,7 @@ tatctgctaa aaactatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catgtggaaa tcttggttca aattcttcgc tattgggtaa
 aagatccttc ttctttgcat ttattacgat tcttg----- -ctcaacgag t------att
-gtaattggac tag---tctt attactc--- ---caaagaa agcca----- -g------tt
+gtaattggac tag---tctt attac----- -tccaaagaa agcca----- -g------tt
 cc-------- -tctttt--- ---tcaaaaa g---aaatca aagattattc ttattcttat
 ataattctca tgtatgtgaa tatgaatccg ttttcgtctt tctacgtaac caatcttctc
 atttacgatc aacatcttct ggagttcttc ttgaacgaat ctatttctat ggaaaaatag
@@ -835,7 +835,7 @@ attctaatat tattgaccga tttgggcgta tatgcagaaa tctttctcat tatcatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Juncus effusus
+>GPAGA019-17|Juncus effusus|GPAGA 181
 ---------- ---------- ------tttt gttggattta aagctggggt taaagattat
 aaattaactt -attatactc ctgagtatga aaccaaagat actgatat-c ctggcagcat
 tccgagtaac tcctcaaccc ggagttccac ctgaagaagc aggagctgcg gtagctgccg
@@ -849,7 +849,7 @@ tatctgcaaa gaactat--- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttcgaaa tcttgattca aattcttcaa tactggatcc
 aagatatttc ttttttgcat ttattgcgat tcttt----- -ttcttcgaa t------att
-tgaattggaa tac---tctc attactt--- ---cgaaaaa ttggn----- -t------tt
+tgaattggaa tac---tctc attac----- -ttcgaaaaa ttggn----- -t------tt
 ct-------- -attttt--- ---ttaaaag a---aaatca aagacttttt cggttcctat
 ataattctta tgtatctgaa tatgagtttg tattcctttt tctttctaaa aaatcttctt
 atttacgatt cacatctttt ggaatctttc ttgagcgaat gtacttctat ggaaaaataa
@@ -866,7 +866,7 @@ tggtcgtaag gggtcaaata ctggaaaatt ccgtattaat ------agat acaat-----
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Gamochaeta purpurea
+>GPAGA020-17|Gamochaeta purpurea|GPAGA 183
 ---------- ---------- ------aagt gttggattca aagcaggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -897,7 +897,7 @@ attctgatat tattgagcgg tttgggcgta tatacagaaa tctttctcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Acalypha gracilens
+>GPAGA022-17|Acalypha gracilens|GPAGA 187
 ---------- ---------- ------aagt gttgggttca aggctggtgt taaagattat
 aaattgactt -attttactc ctgaatatca aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc cggaggaagc aggagctgcg gtagctgctg
@@ -911,7 +911,7 @@ tatccgctaa gaattacggt agggccgttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctagaaa aatgggttca aattcttcga tattggctga
 aagatccctc ttcgttgcat ttattacgac tcttt----- -cttcatgaa t------att
-ggaattggaa cag---tttt cttattc--- ---caaagaa atcga----- -t------gg
+ggaattggaa cag---tttt cttat----- -tccaaagaa atcga----- -t------gg
 ct-------- -attttt--- ---acaaaaa g---taatcc aagatttttc ttgtttctat
 ataactctca tgtatatgaa tatgaatcca tcttcttttt tctccgtacc caatcctttc
 atttacgatc aacatttttt cgagtctttc ttgaacgaat ttatttctat ggaaaattcg
@@ -928,7 +928,7 @@ attctgatat tatcaaccga tttgtacgta tatacagaaa tctttctcat ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Galium tinctorium
+>GPAGA023-17|Galium tinctorium|GPAGA 189
 ---------- ---------- ------aggt gttggattta aagctggtgt taaggagtac
 aaattaactt -attatactc ctgaatacga aaccaaagat actgatat-t ttggcagcat
 tccgagtaac tcctcaaccg ggagttccgc cggaagaagc gggggccgcg gtagctgccg
@@ -942,7 +942,7 @@ tatctgctaa aaactacggt agagcggttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa ttatgattca aacccttcgt tattcggtaa
 aagatgcctc cgccttgcat ttattacgat tattt----- -ttccatgag t------atg
-ggagttggaa tac---tctt agtgtta--- ---caaagaa acgcc----- -t-----ttt
+ggagttggaa tac---tctt agtgt----- -tacaaagaa acgcc----- -t-----ttt
 tg-------- -atttttca- ---ccaaaaa g---aaatca aagatttttt ttattattat
 ataattctca tgcatatgaa tacgaatcct ttttttactt tttgcgtaac aaatcttctc
 atttgcgatc aacatctttt gtattctttc ttgaacgcct ctatttttat ggaaaaaaag
@@ -959,7 +959,7 @@ attctgatat gattgaccga tttgggtata tatgcagaaa tctttctcat tattatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sida rhombifolia
+>GPAGA027-17|Sida rhombifolia|GPAGA 197
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagagtat
 aaattgactt -attatactc cggaatatga agtcaaagat actgatat-c ttggcagcct
 tccgagtaag tccccaaccc ggagttccgc ctgaggaagc gggggccgcg gtagctgctg
@@ -973,7 +973,7 @@ tatccgctaa gaactacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctagaaa tcttagttca agcccttcgc tactgggtaa
 aagatgcttc ttctttgcat ttattacggt tctct----- -ctctacgag t------att
-gtaattcgaa gag---tttt attactt--- ---caaagaa atcta----- -t------tt
+gtaattcgaa gag---tttt attac----- -ttcaaagaa atcta----- -t------tt
 cg-------- -attttt--- ---------- -----aatcc aagattcttc ttgttcctat
 ataattctca tgcatgtgaa tacgagtcca ttttcctttt tctccgcgat caatcttctc
 atttacgatc aacatcttct ggagtctttc ttgaacgaat tcatttctat ggaaaaatag
@@ -990,7 +990,7 @@ attctgatat tattgaccga tttgtgcgga tatgcagaaa cctttctcat tatcacagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyperus surinamensis
+>GPAGA029-17|Cyperus surinamensis|GPAGA 203
 ---------- ---------- ---------- ---------- -----ggggt taaagattac
 aaacttactt -attatactc ctgantacga aaccaaagat actgatat-t ttggcagcgt
 tccgagtaac tcctcaaccc ggagtccctc ctgaagaagc aggagctgca gtagcggcgg
@@ -1004,7 +1004,7 @@ ataagttgaa caagtatggt cgtc------ ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatccttcaa tgctggatcc
 aagatattcc ttctttgcat ttattacgat tcttt----- -ctcttcgat t------att
-ctaatcggaa tag---tcta attattt--- ---caaagaa attggcttct at------tt
+ctaatcggaa tag---tcta attat----- -ttcaaagaa attggcttct at------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattatta tgtatctgaa tatgagtttt tattcttgtt tattcgtaaa aaatcttctt
 gtttacgatt aacatctttt ggaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -1021,7 +1021,7 @@ nttgtgatat tattagtcga tttggtcaaa tatataaaaa tatttttcat t---------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Carex longii
+>GPAGA030-17|Carex longii|GPAGA 205
 ---------- ---------- ------aagt gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-c ttggcagcgt
 tccgagtaac tcctcaaccc ggagtccccc ctgaagaagc aggagctgca gtagcggcag
@@ -1035,7 +1035,7 @@ tatccgcaaa gaactacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatacttcaa tgctggatcc
 aagatatttc ttctttgcat ttattacgat ttttt----- -ctcttcgat c------att
-ctaattcgaa tag---tatc attattt--- ---caaagaa atcgg----- -t------tt
+ctaattcgaa tag---tatc attat----- -ttcaaagaa atcgg----- -t------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattctta tgtatcagaa tatgagtttt tattcctgtt ttttcataaa aaatcgtctt
 gtttacgatt aagatctttt ataagctttc ttgaaaggat ttacttctat ggaaaaatag
@@ -1052,7 +1052,7 @@ attatgatat tattagtcga tttggtcgaa tatataaaaa tttttttcat ttttatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sisyrinchium rosulatum
+>GPAGA032-17|Sisyrinchium rosulatum|GPAGA 209
 ---------- ---------- ------aggt gttggattta aagctggtgt taaagattac
 agattgactt -attatactc ctgattacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttcccc ctgaagaagc aggggctgcg gtagctgccg
@@ -1066,7 +1066,7 @@ tatcagcaaa aaactacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catatggaaa tcttggttca aatccttcaa tactggattc
 aagatgttcc ccttttgcat ttcttgcgat tattt----- -tttcacaaa t------atc
-ataattggaa tagttttctc attactc--- ---caaagaa atcca----- -t------tt
+ataattggaa tagttttctc attac----- -tccaaagaa atcca----- -t------tt
 ct-------- -tttttt--- ---tcaaaag a---aaataa aagactattt cggttcctat
 acaattctta tgtatctgaa tgtgaatttt tattagtttt tcttcgtaaa caatcctctt
 atttacgatt aagatctttt gggctttttt ttgagcgaag aaatttctat gtaaaaatgg
@@ -1083,7 +1083,7 @@ attctgatat tattgcgcga tttggtcgga tgtgtagaaa tctttctcat tatcacagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Eragrostis curvula
+>GPAGA033-17|Eragrostis curvula|GPAGA 211
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -1097,7 +1097,7 @@ tatccgcaaa aaattacggt agagcatgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttggttca actccttgaa tacaggatca
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcca----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -cctttt--- ---tcaaaag a---aaataa aagactatct cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct aggaagatgg
@@ -1114,7 +1114,7 @@ attgggatat tctggatcgc ttt------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ludwigia bonariensis
+>GPAGA035-17|Ludwigia bonariensis|GPAGA 215
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 agactgactt -attatactc ctgagtatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaggaagc aggggctgca gtagctgctg
@@ -1145,7 +1145,7 @@ attctgaaat tatcgaccga tttgtgcgta tatgcagaac tctttctcat t---------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Phyla nodiflora
+>GPAGA036-17|Phyla nodiflora|GPAGA 217
 ---------- ---------- ------aggt gttggattca aagcgggtgt aaaagagtac
 aaattgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccac ctgaagaagc aggggccgcg gtagctgccg
@@ -1159,7 +1159,7 @@ tatctgctaa aaactatggt agagcgtgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catggggaaa tcttggttca aactcttcgc tactgggtca
 aagatgcctc ttctttgcat ttattacgat tcttt----- -ctcaatgag t------att
-gtaa------ tag---tctt attactc--- ---caacgaa agcga----- -g------tt
+gtaa------ tag---tctt attac----- -tccaacgaa agcga----- -g------tt
 cc-------- -tctttt--- ---ttaaaaa g---aaatca aagattattc ttattcttat
 ataattctca tgtatctgaa tatgaatcca ttttcgtctt tctacgtaac caatcttctc
 atttacgatc aacatcttct ggagttcttc ttgaacgaat ctatttctat cgaaaaataa
@@ -1176,7 +1176,7 @@ attcgaatat tcttgaccga tttgggcgta tatgcagaaa tctttctcat tatcatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Alternanthera philoxeroides
+>GPAGA037-17|Alternanthera philoxeroides|GPAGA 219
 ---------- ---------- ------aagt gttggattta aagctggtgt taaagattac
 aaattgactt -attatactc cggagtatga aaccctagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac cggaagaagc aggggctgca gtagctgccg
@@ -1190,7 +1190,7 @@ tatccgctaa aaactacggt cgagcatgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctagaaa tcttggttca aactctccga tactggttga
 aagatgcttc ttctttgcat ttattacgat tcttt----- -ctttatgag t------gtc
-gtaattggac tag---tttt attactc--- ---caaaaga atcca----- -t------tt
+gtaattggac tag---tttt attac----- -tccaaaaga atcca----- -t------tt
 cc-------- -tttttt--- ---tcaaaaa g---gaatcg acgattattc ttgttcctat
 ataatttcta tgtatgtgaa tacgaatcct tttttgttat tctccgcaat caatcctctt
 atttaagatc aacatctttt ggagctcttc ttgaacgaat ccatttctac ggaaagttaa
@@ -1207,7 +1207,7 @@ attctgatat tattgaccga tttggacgta tctgcagaaa tctttctcat tattatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Persicaria hydropiperoides
+>GPAGA038-17|Persicaria hydropiperoides|GPAGA 221
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagaatat
 aaattgaatt -attatactc ctgactatga accccatgac catgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccac cagaagaagc aggggccgcg gtagctgccg
@@ -1221,7 +1221,7 @@ tgtccgctaa gaactacggt cgagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttggaaa tcttggttca aactattcgt tactgggtaa
 aagatacttc ctgtttgcat ttattgcgat tcttt----- -ctttatgag t------att
-gtaa------ tag---tgtt attactc--- ---tagagag atctg----- ----------
+gtaa------ tag---tgtt attac----- -tctagagag atctg----- ----------
 ---------- -----tt--- ---tcacaaa atccgaataa aagattcttt ttgttcttat
 ataattccta tgtgtgggaa tgcgaatcca tcttcgtttt tctccggaac caatcctctc
 atttacgatc aacatcttac ggcgcccttc ttgcacgagt ctatttctac cgaaagtcag
@@ -1238,7 +1238,7 @@ attctgatat tattcgccga tttgggcgta tgtgtagaaa cctttctcat tattacagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Panicum scoparium
+>GPAGA039-17|Panicum scoparium|GPAGA 223
 ---------- ---------- ------aagt gttggattta aagctggtgt taaggattat
 aaattgaatt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -1252,7 +1252,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttagaaa tcctggttca actccttgaa taccggattc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcct----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcct----- -t------tt
 tt-------- -cttttg--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt ttttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat catcttttct gggaagatgg
@@ -1269,7 +1269,7 @@ attgggatat tcttgatcgt tttggtcgg- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Oxalis dillenii
+>GPAGA041-17|Oxalis dillenii|GPAGA 229
 ---------- ---------- ------aagt gttggattca aggccggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttcctc ctgaggaagc tggggcagcg gtagctgctg
@@ -1283,7 +1283,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- caccaggaaa ttttggttca aattcttcgc tacggagcga
 aagatgcctc ttctttgcat ttagtacggc tcttt----- -ctccacgag t------att
-ctaagtggaa tag---gctt tttaatt--- ---caaagaa ttcta----- -g------tt
+ctaagtggaa tag---gctt tttaa----- -ttcaaagaa ttcta----- -g------tt
 cc-------- -attttt--- ---tcaaaga g---taatcc aagattgttc ttgttcttat
 ataattctta tgtatacgaa tacgaatcca ctcttctttt tctctgtaac caatcttctc
 atttacgatc aacatcttct cggatttttt ttgagcgaat gtatttttat ggaaaaatag
@@ -1300,7 +1300,7 @@ attctgatat tatggatcga tttgtgcgta tatgcagtaa tc-------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Morella cerifera
+>GPAGA042-17|Morella cerifera|GPAGA 231
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-c ttggcagcgt
 tccgagtaac tcctcaacct ggagttccgc ctgaggaagc aggggcagca gtagctgctg
@@ -1331,7 +1331,7 @@ attttgatat tatcaatcga tttgtgcgta tatgcagaaa tctttctcat tattacagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Erigeron strigosus
+>GPAGA046-17|Erigeron strigosus|GPAGA 239
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccac ctgaagaagc aggggccgca gtagctgccg
@@ -1362,7 +1362,7 @@ attctgatat tattgagcgc tttggacgta tacacagaaa tctttctcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sesbania drummondii
+>GPAGA048-17|Sesbania drummondii|GPAGA 243
 ---------- ---------- ------aagt gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc aggtgctgcg gtagctgctg
@@ -1376,7 +1376,7 @@ tatccgctaa gaattatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttggaaa ttttagttca aatccttcga tattgggtga
 aagatgtttc tttctttcac ttagtaagat tgttt----- -ttttacgat tattgtaatt
-gtaattggaa taa---tctt attactc--- ---caaaaaa atctt----- -c------ga
+gtaattggaa taa---tctt attac----- -tccaaaaaa atctt----- -c------ga
 ct-------- -actttt--- ---tcaaaaa g---tagtcg aagatttttc ttcttcctat
 ataattttta tgtatatgaa tatgaatcga tcttcctttt tctacgtaac aaatcctctc
 atttacgatt aaaatctttt agcgtttttt ttgaacgaag ttttttctat gcaaaacgag
@@ -1393,7 +1393,7 @@ a------ttt attttactt- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Agrostis hyemalis
+>GPAGA050-17|Agrostis hyemalis|GPAGA 252
 ---------- ---------- ------aagt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggagtatga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc cggaagaagc aggggctgca gtagctgccg
@@ -1407,7 +1407,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttggaaa tcttggtgca actccttcaa taccgtatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactac t------att
-caaattggaa tag---tttt attactt--- ---caatgaa atcta----- -t------tt
+caaattggaa tag---tttt attac----- -ttcaatgaa atcta----- -t------tt
 tt-------- -cttttt--- ---aaaaaag a---aaataa aagacttttt cgattcttat
 ataattctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 ccttaccatt attatcttct ggaacttttc tggaacgaat catcttttct aggaagatgg
@@ -1424,7 +1424,7 @@ attgggatat tcttgatcga tttggtcgca tatgtagaaa tctttttcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Lolium perenne
+>GPAGA051-17|Lolium perenne|GPAGA 254
 ---------- ---------- ------aagt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggagtatga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagcct ggggttccgc cggaagaagc aggggctgca gtagctgccg
@@ -1438,7 +1438,7 @@ tatccgcaaa aaattatggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttggaaa tcttggttca actccttcaa taccgtatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaacaat t------att
-caaattggaa tag---tttt attactt--- ---caatgaa atcta----- -t------tt
+caaattggaa tag---tttt attac----- -ttcaatgaa atcta----- -t------tt
 tt-------- -cttttt--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttaccatt agcagcttca ggaacttttt tggaacgaat ccacttttct aagaagatgg
@@ -1455,7 +1455,7 @@ attgggatat tcttgatcga tttggtcgga tatgtagaaa tctttttcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ilex vomitoria
+>GPAGA054-17|Ilex vomitoria|GPAGA 261
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattac
 aaattgactt -attatactc ctgactatga caccaaagat actgatat-c ttggcagcat
 tccgagtatc tcctcaacct ggagttccac ctgaagaagc aggggccgcg gtagctgctg
@@ -1469,7 +1469,7 @@ tatctgctaa aaactacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tcttggttca aactcttcgt tactgggtaa
 aagatacttc ttctttgcat ttattacgat tcttt----- -ctctacgag g------atc
-gtaattggaa tag---tctt attactt--- ---cacagaa acccg----- -g------tt
+gtaattggaa tag---tctt attac----- -ttcacagaa acccg----- -g------tt
 ct-------- -tctttt--- ---tcaaaaa g---aaatca aagattcttt ttcttcttat
 ataattctca tgtatgtgaa tacgaatcta tcttcgtttt tctccgtaat caatcttctc
 atttacgatc aacatcttct ggagttcttc ttgaacgaat atatttctat ggaaaaatag
@@ -1486,7 +1486,7 @@ attctgatat tattgatcga tttgggcgta tatacagaaa tctttttcat tatcatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Rumex verticillatus
+>GPAGA055-17|Rumex verticillatus|GPAGA 263
 ---------- ---------- ------aggt gttggattca aagctggtgt taaagaatac
 aaattgactt -attatactc ctgactatga accccatgac catgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccac cagaagaagc aggggccgcg gtagctgccg
@@ -1500,7 +1500,7 @@ tgtccgctaa gaactacggc cgagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttggaaa tattggttca aactgttcgt tactgggtac
 aagatacctc ttgtttgcat ttattacgat tcttt----- -ctttatgag t------att
-gtaa------ tag---tgtt attactc--- ---taaagag gtctg----- -t------tt
+gtaa------ tag---tgtt attac----- -tctaaagag gtctg----- -t------tt
 cc-------- -tatttt--- ---tcaaaaa aaaagaatca aagattctta ttgttcctat
 ataattccta cgtatgtgaa tgcgaatcca tcttcgtttt tctccgcaac caatcctctc
 atttacgatc aacatcttac ggagcctttc ttgcacgagt ttatttctac ctaaagttag
@@ -1517,38 +1517,7 @@ attctgatat tattcgccga tttggacgta tatgtagaaa tctttctcat tattacagc-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Paspalum urvillei
----------- ---------- ------aagt gttggattta aagctggtgt taaggattat
-aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
-tccgagtaac tcctcagccc ggggttccac ctgaagaagc aggggctgca gtagctgcgg
-aatcttctac tggtacatgg acaactgttt ggactgatgg acttaccagt cttgatcgtt
-acaaaggacg atgctatcac atcgaacccg ttcctgggga ggcagatcaa tatatctgtt
-atgtagctta tccattagac ctatttgaag agggttctgt tactaatatg tttacttcca
-tcgtgggtaa cgtatttggt ttcaaagcct tacgcgctct acgtttggag gatctacgaa
-ttccccctac ttattcaaaa actttccaag gtccgcctca cggtatccaa gttgaaaggg
-ataagttgaa caagtatggt cgtcctttat tgggatgtac tattaaaccc aaattgggat
-tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- catttggaaa tcttggttca actccttcaa tatcgtatcc
-aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactac t------att
-cgaattggaa tag---tttt attactt--- ---caatgaa atcca----- -t------tt
-tt-------- -attttt--- ---aaaaaag a---aaataa aagactattt cgattcctat
-ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
-gcttaccatt agcatcttct ggaacttttc tggaacgaat ccacttttct aggaagatgg
-aacat----- -tt------t ---------- ---------- -tggataat- ----------
----gta---- --cc-cgggt ttttctcgga ------aaaa cctatggttc tttat-----
--ggatcctct tatgcattat gttcgatatc aaggaaaagc aattcttgca tcaaaaggca
-cttttttttt gaagaagaaa tggaaatgct accatatcaa tttatggcaa tattatttct
-gtttttggac tcagccgcga aggatccat- -----ataaa cc------aa ttagtaaact
-c------ttg cttcgatttt atggggtacc t------ttc aagtgtacca aaaagtcctt
-tgttagtaag gaataaaatg ctggagaatt catttctaat ------agat actcg-----
--aatgaaaaa attcgatacc atagtccccg ctactctact cataggatac ttatcaaaag
-ctcaattttg tactggatcg gggcatccta ttagtaaacc catttggacg gatttatcag
-attgggatat tcttgatcga tttggtcgga tatgtagaaa tctttttcat tatcatagtg
-g--------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------
->Bromus catharticus
+>GPAGA058-17|Bromus catharticus|GPAGA 269
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cagagtatga aactaaggat actgatat-c ttggcagcat
 tccgagtaag tcctcagcct ggggttccgc ccgaagaagc aggggctgca gtagctgctg
@@ -1562,7 +1531,7 @@ tatccgcaaa aaattatggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttggaaa tcttggttca actccttcaa tatcgtatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactac t------att
-cgaattggaa tag---tttt attactt--- ---caatgaa atcca----- -t------tt
+cgaattggaa tag---tttt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -attttt--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttaccatt agcatcttct ggaacttttc tggaacgaat ccacttttct aggaagatgg
@@ -1579,7 +1548,7 @@ attgggatat tcttgatcga tttggtcgga tatgtagaaa tctttttcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Portulaca smallii
+>GPAGA062-17|Portulaca smallii|GPAGA 277
 ---------- ---------- ------aagt gttggattta aagcaggtgt taaagattac
 aaattgactt -attatactc ctgaatatca acccctggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgt cagaagaagc aggagccgca gtagctgccg
@@ -1593,7 +1562,7 @@ tatccgctaa aaactatggt cgagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctagaaa tcttagttca aactcttcgt tactgggtga
 aagatgcttc ttccttgcat ttattacgat acttt----- -ctttatgag t------atc
-gtaattgtaa tag---tctt attactc--- ---cccaaaa atcca----- -t------tt
+gtaattgtaa tag---tctt attac----- -tccccaaaa atcca----- -t------tt
 ct-------- -attttt--- ---tcaaaaa g---taatca acgattattc ttgtttctat
 ataatttcca tgtatgtgaa tacgaatccc ttttcgtttt tctctgtaac caatcctctt
 atttacgatc gacatctttt ggagcccttc ttgaacgaat ctatttttac ggaaagctag
@@ -1610,7 +1579,7 @@ attctgatat tattgatcgc tttggtcgca tatctagaaa tct------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Diodia virginiana
+>GPAGA064-17|Diodia virginiana|GPAGA 281
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagagtac
 aaattaactt -attatactc ctgaatacga aacaaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacca ggagttccac cggaagaagc aggggccgcg gtagctgccg
@@ -1624,7 +1593,7 @@ tatctgctaa aaactatggt agagcatgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cacctggaaa ttttngtcca aacccttcgt tattgggtaa
 aagatgcttc tgctttgcat ttattacgat tattt----- -ttccacgag t------att
-ggaattgggc tac---tctt agtgtta--- ---caaagaa accta----- -a-----ttt
+ggaattgggc tac---tctt agtgt----- -tacaaagaa accta----- -a-----ttt
 tg-------- -atttttca- ---ccaaaaa g---aaatca aagatttttt ttcttattat
 ataattctca tgcgtatgaa tatgaatcca ttttagactt tctgcgtaac caatcttctc
 atttgcgatc aacatatttt gtattctttc ttgaacgact ttatttttat ggaaaaaaag
@@ -1641,7 +1610,7 @@ attctgatat ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Trifolium resupinatum
+>GPAGA067-17|Trifolium resupinatum|GPAGA 287
 ---------- ---------- ------aaag gttgggttca aagctggtgt taaagattat
 aggttgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc aggtgcagcg gtagctgccg
@@ -1655,7 +1624,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tcttagttca aatccttcga tactgggtga
 aagatgtccc cttttttcat ttattacggt tgttt----- -ctttatgat t------ttt
-gtaattggaa ttg---tttt actccta--- ---ccaaaaa atcaa----- -t------tt
+gtaattggaa ttg---tttt actcc----- -taccaaaaa atcaa----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---taatcc aagattattc ttgttcctct
 ataattttta tgtatgtgaa tatgaatcta tcttcctttt tctacgtaat aaatcctctc
 atttacgatt aaaatctttt agcgtttttt ttgagcgaat ttttttttat gcaaaaagag
@@ -1672,7 +1641,7 @@ attttgatat tattgagcgg tttttgcgaa tatgcagaaa tctttctcat tattacaatg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Plantago major
+>GPAGA068-17|Plantago major|GPAGA 289
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tccgcaacct ggagttcccc ctgaagaagc aggggctgcg gtagcggccg
@@ -1686,7 +1655,7 @@ tatctgctaa aaactatggt agagcatgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catgtagaaa tcttggtgca aacccttcgc tattgggtaa
 aagatgcccc ttctttgcat ttattacgat tcttt----- -cttaacgag t------att
-g--------- gag---tctt agtactc--- ---taaagaa agccg----- -g------t-
+g--------- gag---tctt agtac----- -tctaaagaa agccg----- -g------t-
 ---------- ---------- ---ttaaaac g---aaatca aagattcttt ttattcttat
 ataattctta tatatgtgaa tacgaatcca ttttcgtatt tttacgtaac caatcttctc
 atttacaatc aacatctttt ggagttcttc ttgaacgaat ctatttctat ggaaaaatag
@@ -1703,7 +1672,7 @@ att------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Tamarix gallica
+>GPAGA070-17|Tamarix gallica|GPAGA 295
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattac
 aaattgactt -attatactc ctcaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttcctc cagaggaagc aggagccgca gtagctgccg
@@ -1717,7 +1686,7 @@ tatccgctaa gaactacggt cgagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tcttggttca aacccttcgc tattgggtta
 aagatggctc ttctttacat ttattacgat ttttt----- -ctttatcag t------atc
-gtaattccaa tag---attt attactc--- ---gaaggaa ---------- ----------
+gtaattccaa tag---attt attac----- -tcgaaggaa ---------- ----------
 -t-------- -attttt--- ---tcaaaaa g---gaatcc gagattattc ttattcttat
 ataattctca tgtgtttgaa tacgaatcca tctttgtttt tctccgcaac caatcctctc
 atttactatc aacgtcttat ggagcccttc ttgaacgaat atctttctat gaaaagatac
@@ -1734,7 +1703,7 @@ attctgatat tattgaccga tttggccgta tatgcagaaa tctttctcat tattacagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Pontederia cordata
+>GPAGA071-17|Pontederia cordata|GPAGA 297
 ---------- ---------- ------aagt gttggattta aagcaggtgt taaagattac
 aaattgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggtgttccgc ctgaagaagc aggggctgcg gtagctgcgg
@@ -1748,7 +1717,7 @@ tatctgcaaa gaactatggt agagcggttt atgaatgttt a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catatggaaa tcctggttca aattcttcaa tctcgagtcc
 aggatgctcc ctctttgcat tttttgcggc tcttt----- -cttcaccaa t------atc
-ataattggaa tag---tctc attactc--- ---cgaagaa atcta----- -t------tt
+ataattggaa tag---tctc attac----- -tccgaagaa atcta----- -t------tt
 ct-------- -gttatt--- ---tcaaaag a---aaataa aagactattt tggttcttat
 ataattctta tatatctgaa tgcgaatttt tattagtgtt tcttcgtaaa caatcttctt
 atttaccatt aacatcttct ggagtctttc ttgagcgaac atattattat ggaaaaatac
@@ -1765,7 +1734,7 @@ attgtgatat tattaataga tttggtcgaa tatgtagaaa cctttctcat tatcacagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Carex lupulina
+>GPAGA073-17|Carex lupulina|GPAGA 303
 ---------- ---------- ------aagt gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-c ttagcagcgt
 tccgagtaac tcctcaaccc ggagtccccc ctgaagaagc aggagctgca gtagcggcag
@@ -1779,7 +1748,7 @@ tatccgcaaa gaactacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatccttcaa tgctggatcc
 aagatatttc ttctttgcat ttattgcgat ttttt----- -ctcttcgat c------att
-ctaattcgaa tag---tatc attactt--- ---taaagaa atcgg----- -t------tt
+ctaattcgaa tag---tatc attac----- -tttaaagaa atcgg----- -t------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 acaattctta tgtatcagaa tatgagtttt tattcctgtt ttttcgtaaa aaatcttctt
 gtttacgatt aagatctttt agaagctttc ttgaaagaat ttacttatat ggaaaaatag
@@ -1796,7 +1765,7 @@ attatgatat tattagtcga tttggtcgaa tatataaaaa tctttttcat ttttatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyperus planifolius
+>GPAGA075-17|Cyperus planifolius|GPAGA 308
 ---------- ---------- ------ttat gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-t ttggcagcgt
 tccgagtaac tcctcaaccc ggagtccctc ctgaagaagc aggagctgca gtagcggcgg
@@ -1810,7 +1779,7 @@ tatccgcaaa gaattacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatccttcaa tgctggatcc
 aagatattcc ttctttgcat ttattgcgat tcttt----- -ctcttcgat t------att
-ctaatcggaa tag---tcta attattt--- ---caaagaa attggcttct at------tt
+ctaatcggaa tag---tcta attat----- -ttcaaagaa attggcttct at------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattatta tgtatctgaa tatgagtttt tattcttgtt tattcgtaaa aaatcttctt
 gtttacgatt aacatctttt ggaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -1827,7 +1796,7 @@ attgtgatat tattagtcga tttggtcaaa tatataaaaa tattt----- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Phragmites australis
+>GPAGA076-17|Phragmites australis|GPAGA 310
 ---------- ---------- ------aagt gttggattta aagccggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgg ctgaagaagc aggggctgca gtagctgcgg
@@ -1841,7 +1810,7 @@ tatccgcaaa aaattacggt agagcttgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttggaaa tcttggttca actccctgaa taccggatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaattat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcga----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcga----- -t------tt
 tt-------- -cttttg--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct aggaagatgg
@@ -1858,7 +1827,7 @@ attgggatat tcttgatcgc tttggtcgga tatctagaaa tctttttcat tatcat----
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Juncus validus
+>GPAGA077-17|Juncus validus|GPAGA 312
 ---------- ---------- ------tttt gttggattta aagcaggggt taaagattat
 aaattaactt -attatactc ctgagtatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccac ctgaagaagc aggagctgcg gtagctgccg
@@ -1872,7 +1841,7 @@ tatctgcaaa gaactatggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttaaaa tcttaattct aattcttcaa tgttggatcc
 aagatgtttc ttttttgcat ttattgctat ttttt----- -ctccttgaa t------att
-tgaattggaa tac---tcta attattt--- ---ccaaaaa ttggc----- -t------tt
+tgaattggaa tac---tcta attat----- -ttccaaaaa ttggc----- -t------tt
 ct-------- -attttt--- ---ttaaaag a---aaataa acgacttttt cagttcctat
 ataattctta tgtattcgaa tatgagtttg tactgctttt tatttataaa aaatgttcat
 atttacgatt cacatctttt acaatctttc ttgaacgaat gtacttctat agaaaaataa
@@ -1889,7 +1858,7 @@ atcgcgatat tattaatcaa tttggttgga tatgtagaaa tctttttcat tattatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Setaria parviflora
+>GPAGA078-17|Setaria parviflora|GPAGA 314
 ---------- ---------- ------aagt gttggattta aagctggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccac ctgaagaagc aggggctgca gtagctgcgg
@@ -1903,7 +1872,7 @@ tttccgcaaa aaat------ ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttagaaa tcctggttca actcgttgaa taccggattc
 aagatgttcc gtctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attacgt--- ---caatgaa atcga----- -t------tt
+cgaattggaa tag---tctt attac----- -gtcaatgaa atcga----- -t------tt
 tt-------- -cttttt--- ---tcaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct gggaaaattg
@@ -1920,7 +1889,7 @@ attgggatat tattgatcat tttg------ ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Strophostyles umbellata
+>GPAGA079-17|Strophostyles umbellata|GPAGA 316
 ---------- ---------- ------aagt gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc aggtgctgcg gtagccgccg
@@ -1934,7 +1903,7 @@ tatccgctaa gaattatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tcttggttca aatccttcga tatgggataa
 aagatgtctc tttctttcat ttaatcaggt tgttt----- -ctttattac t------att
-ataattggaa tag---tctt tttcttc--- ---caaaaaa atgga----- -tttc---ta
+ataattggaa tag---tctt tttct----- -tccaaaaaa atgga----- -tttc---ta
 ct-------- -tttttt--- ---tcaaaaa g---gaatct aagaattttc ttgttcctat
 ataatttata tgtatgggaa tatgaatcta tctttctttt tctacgtaaa aaatcctctc
 agttacagtt aaaacatttt cgcgtttttt ttgaacgaat ttttttctat gaaaaaataa
@@ -1951,7 +1920,7 @@ caaaattttg taa------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyperus iria
+>GPAGA080-17|Cyperus iria|GPAGA 317
 ---------- ---------- ------taat gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-c ttggcagcgt
 tccgagtaac tcctcaacct ggagtccctc ctgaagaagc aggagctgca gtagcggcgg
@@ -1965,7 +1934,7 @@ tatccgcaaa gaattacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatccttcaa tgctggatcc
 aagatattcc ttctttgcat ttattgagat tcttt----- -ctcttcgat t------att
-ctaattggaa tag---tctc attattt--- ---caaagaa attagcttct at------tt
+ctaattggaa tag---tctc attat----- -ttcaaagaa attagcttct at------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattatta tgtatctgaa tatgagtttt tattcttttt tattcgtaaa aaatcttctt
 gtttacgatt aacatctttt ggaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -1982,7 +1951,7 @@ attatgatat tattagtcga tttggtcaaa tatataaaaa tatttttcat tt--------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Fimbristylis miliacea
+>GPAGA081-17|Fimbristylis miliacea|GPAGA 319
 ---------- ---------- ------tttt gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-c ttggcagcgt
 tccgagtaac tcctcaaccc ggagtccccc ctgaagaagc aggagctgca gtagcggcgg
@@ -1996,7 +1965,7 @@ tatccgcaaa aaactacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catttngaaa tcttagttca aatccttcca tgctggatcc
 aagatattcc ttctttacat ttattaagat tttttctctt cctcttcgat t------att
-ttaatcggaa tag---tctt tttattt--- ---caaagaa attgg----- -t------tt
+ttaatcggaa tag---tctt tttat----- -ttcaaagaa attgg----- -t------tt
 ct-------- -atattc--- ---tcaaaag a---aaacat aagactttgt cgtttcttat
 ataattttta tgtatctgaa tatgagtttt tattcctgtt tattcgtaaa aaatcttctt
 atttacgatt aatatctttt gtaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -2013,7 +1982,7 @@ attatgatat tattagtcga tttggtcgaa tatatagaaa tctttttcat ttttatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyperus virens
+>GPAGA082-17|Cyperus virens|GPAGA 321
 ---------- ---------- ------ttat gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-t ttggcagcgt
 tccgagtaac tcctcaaccc ggagtccctc ctgaagaagc aggagctgca gtagcggcgg
@@ -2027,7 +1996,7 @@ tatccgcaaa gaattacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatccttcaa tgctggatcc
 aagatattcc ttctttgcat ttattacgat tcttt----- -ctcttcgat t------att
-ctaatcggaa tag---tcta attattt--- ---caaagaa attggcttct at------tt
+ctaatcggaa tag---tcta attat----- -ttcaaagaa attggcttct at------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattatta tgtatctgaa tatgagtttt tattcttgtt tattcgtaaa aaatcttctt
 gtttacgatt aacatctttt ggaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -2044,7 +2013,7 @@ attgtgatat tattagtcga tttggtcaaa tatataaaaa tatttttcat ttttatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cenchrus echinatus
+>GPAGA083-17|Cenchrus echinatus|GPAGA 323
 ---------- ---------- ------aagt gttggattta aagctggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -2058,7 +2027,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ------gaaa tcctggttca actccttgaa taccggattc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcga----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcga----- -t------tt
 tt-------- -cttttg--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct gggaagatgg
@@ -2075,7 +2044,7 @@ c------ttg cttcgatttc ctggggtacc t------ttc aagtgtacca ataactac--
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ludwigia decurrens
+>GPAGA084-17|Ludwigia decurrens|GPAGA 325
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 agactgactt -attatactc ctgagtatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaggaagc aggggctgca gtagctgctg
@@ -2106,7 +2075,7 @@ attctgaaat tatcgaccga tntgtgcgta t--------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Digitaria sanguinalis
+>GPAGA085-17|Digitaria sanguinalis|GPAGA 327
 ---------- ---------- ------aagt gttggattta aagctggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -2120,7 +2089,7 @@ tatccgcaaa aaattacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cacttagaaa tcctggttca actcctcgaa taccggattc
 aagatgttcc atctttgcat ttattccgat tcttt----- -ctcaactat t------att
-cgaattgcaa tag---tctt attactt--- ---caatgaa atcca----- -t------tt
+cgaattgcaa tag---tctt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -tttttg--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaatctttc tggaacgaat ccacttttct gggaagatgg
@@ -2137,7 +2106,7 @@ attgggatat tcttgatcgt tttggtcaga tatgtagaaa tctttt---- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Chamaecrista nictitans
+>GPAGA086-17|Chamaecrista nictitans|GPAGA 329
 ---------- ---------- ------aagt gttgggttca aagctggtgt taaagattat
 aaattgaatt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc aggtgccgcg gtagctgctg
@@ -2151,7 +2120,7 @@ tatctgctaa gaattacggt agggcggttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tcttggttca aacctttcga tactgggtga
 aagatgcctc ttgttttcat ttattaaggc tcttt----- -ctttatgag t------att
-ggaattggaa tag---tctt attactc--- ---caaaaaa atgga----- -t------tt
+ggaattggaa tag---tctt attac----- -tccaaaaaa atgga----- -t------tt
 cc-------- -actttt--- ---tcaaaaa g---taatcc aagattattc ctgttcctat
 ataattttta tgtatgtgaa tacgaatcta tctttctttt tctccgtaac aaatcttctt
 atttacgatt aacatcttct ggagtccttt ttgaacgaat caatttttat gcaaaaataa
@@ -2168,7 +2137,7 @@ attttgatat tattgactta tttttgcgga gatgcagaaa tctttctcat tattacaatg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Melochia corchorifolia
+>GPAGA087-17|Melochia corchorifolia|GPAGA 331
 ---------- ---------- ------ttat gttggattca aagctggtgt taaagagtat
 aaattgactt -attatactc ctcaatatga agtcaaagat actgatat-c ctggcagcct
 tccgagtaac tcctcaaccc ggagttccgc ctgaggaagc gggggccgcg gtagctgctg
@@ -2182,7 +2151,7 @@ tatctgctaa gaactacggt agagctgttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctagaaa tcttggttca agcccttcgc tactgggtaa
 aagatccttc ttctttgcat ttattacggt tctct----- -ctttacgac t------att
-gtaatttcaa gag---tttt tttactc--- ---caaagaa atctc----- -t------tt
+gtaatttcaa gag---tttt tttac----- -tccaaagaa atctc----- -t------tt
 ct-------- -attttg--- ---------- -----aatcc aagattattc ttgttcctat
 ataattctca tgtatgtgaa tacgaatcca ttttcctttt tctccgtaac caatcttctc
 atttacgatc aacatcttcc ggagtctttc ttgaacgaat ttatttctat ggaaaaatag
@@ -2199,7 +2168,7 @@ attctgatat tattgaccga tttgtgcgta tatgcagaaa tctttctcat tatcacagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Jacquemontia tamnifolia
+>GPAGA089-17|Jacquemontia tamnifolia|GPAGA 335
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagactac
 aaattaactt -attatactc cagagtacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggggttccac ctgaagaagc aggggccgcg gtagctgcgg
@@ -2213,7 +2182,7 @@ tatctgctaa aaactacggt agagcttgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- catctggaaa tcttggttca aactcttcga tattgggtga
 aagacgtttc ttctttgcat ttattacgat tcttt----- -ctctacgag t------att
-gcaattggaa taa---tttc attactc--- ---caaagaa gtacc----- -g------tt
+gcaattggaa taa---tttc attac----- -tccaaagaa gtacc----- -g------tt
 cc-------- -cttttt--- ---ttaaaaa g---aaatca aagatttttc ttcttcttat
 ataactctta tatatgtgaa tacgaatcca tttttgtctt tctccgtaac caatctcttc
 atttacgatc aaccagtttt ggagcccttt ttgaacgaaa caatttctat gggaaaatcg
@@ -2230,7 +2199,7 @@ attctgatat tattgaacgg tttgggcgta tatgcagaaa tatttttcat tattatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyperus compressus
+>GPAGA091-17|Cyperus compressus|GPAGA 339
 ---------- ---------- ------taat gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-c ttggcagcgt
 tccgagtaac tcctcaacct ggagtccctc ctgaagaagc aggagctgca gtagcggcgg
@@ -2244,7 +2213,7 @@ tatccgcaaa gaattacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatccttcaa tgctggatcc
 aagatattcc ttctttgcat ttattgagat tcttt----- -ctcttcgat t------att
-ctaattggaa tag---tctc attattt--- ---caaagaa attagcttct at------tt
+ctaattggaa tag---tctc attat----- -ttcaaagaa attagcttct at------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattatta tgtatctgaa tatgagtttt tattcttgtt tattcgtaaa aaatcttctt
 gtttacgatt aacatctttt ggaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -2261,7 +2230,7 @@ cttcactttg tactgtatta ggacatccta ctagtaaacc aatttggaca gat-------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Baccharis halimifolia
+>GPAGA092-17|Baccharis halimifolia|GPAGA 341
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -2292,7 +2261,7 @@ attctgatat tat------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Eleusine indica
+>GPAGA093-17|Eleusine indica|GPAGA 344
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actatactc cggaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -2306,7 +2275,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa ttttggttca actccttgaa taccggatgc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -cttaactat t------att
-caaattggaa tag---tctt attactt--- ---caatgaa atcca----- -t------tt
+caaattggaa tag---tctt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -cttttt--- ---tcaaaag a---aaataa aagactatct cgattcctat
 ataactctta tgtatcggaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct aagaagatgg
@@ -2323,7 +2292,7 @@ attgggatat tctggatcgc tttggtcgga tatgtagaaa tctttttcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyperus strigosus
+>GPAGA094-17|Cyperus strigosus|GPAGA 345
 ---------- ---------- ------taat gttgggttta aagcaggggt taaagattac
 aaacttactt -attatactc ctgagtacga aaccaaagat actgatat-c ttggcagcgt
 tccgagtaac tcctcaacct ggagtccctc ctgaagaagc aggagctgca gtagcggcgg
@@ -2337,7 +2306,7 @@ tatccgcaaa gaattacggt agagcatgtt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- cattttgaaa tcttagttca aatccttcaa tgctggatcc
 aagatattcc ttctttgcat ttattgagat tcttt----- -ctcttcgat t------att
-ctaattggaa tag---tctc attattt--- ---caaagaa attagcttct at------tt
+ctaattggaa tag---tctc attat----- -ttcaaagaa attagcttct at------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattatta tgtatctgaa tatgagtttt tattcttgtt tattcgtaaa aaatcttctt
 gtttacgatt aacatctttt ggaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -2354,7 +2323,7 @@ attatgatat tattagtcga tttggtcaaa tatataaaaa tatttttcat ttttatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Medicago lupulina
+>GPAGA095-17|Medicago lupulina|GPAGA 347
 ---------- ---------- ------aacg gttgggttta aagctggtgt taaagattat
 agattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaag tcctcaaccg ggagttccgc ctgaagaagc aggtgcagcg gtagctgccg
@@ -2385,7 +2354,7 @@ cgaaattttg taatgtattg gggcatccta ttagtaa--- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Geranium carolinianum
+>GPAGA096-17|Geranium carolinianum|GPAGA 349
 ---------- ---------- ------tagt gttggattta aagcgggtgt taaagactat
 aaattgactt -attatactc ctgattatga aaccaaggat actgatat-c ttggcagcat
 tccgagtaag tcctcaaccc ggagttccac ctgaggaagc gggggccgcg gtagctgctg
@@ -2416,7 +2385,7 @@ attctgatat tattgaccga tttgtacgta tgtgcagaaa tctttctcat tatcacagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Bidens pilosa
+>GPAGA097-17|Bidens pilosa|GPAGA 352
 ---------- ---------- ------aagt gttggattca aagccggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagccgccg
@@ -2447,7 +2416,7 @@ attctgatat tattgagcgc tttggccgta tatacagaaa tctttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgag taaaatat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ipomoea nil
+>GPAGA098-17|Ipomoea nil|GPAGA 353
 ---------- ---------- ------aagt gttggattca aagctggtgt aaaagactac
 aaattgactt -attatactc ctgagtacca aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccac ctgaagaagc aggggccgcg gtagctgcgg
@@ -2461,7 +2430,7 @@ tatctgctaa aaactacggt agagcggttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcac tattgggtga
 aagacgcttc ttctttgcat ctattacgat tcttt----- -ctctacgag t------att
-gcaattttaa tat---tttc attactc--- ---caaagag gtccc----- -g------tt
+gcaattttaa tat---tttc attac----- -tccaaagag gtccc----- -g------tt
 cc-------- -cctttt--- ---tcaaaga t---aaatca aagatttttc ttcttcttat
 ataactctta tgtatgtgaa tacgaatcca tttttttatt tctccgtaac caatctcttc
 atttacgatc aaccagtttt ggagcccttt ttgaacgaaa cattttctat ggaaaaatag
@@ -2478,7 +2447,7 @@ attctgatat tattgaacgg tttggacgta tatacagaaa tttttttcat tattatagtg
 gatcttccaa aaaaaggagt ttgtatcgaa taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ipomoea coccinea
+>GPAGA099-17|Ipomoea coccinea|GPAGA 355
 ---------- ---------- ------aagt gttggattca aagctggtgt aaaagactac
 aaattgactt -attatactc ctgagtacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc aggggccgcg gtagctgcgg
@@ -2492,7 +2461,7 @@ tatcggctaa aaactacggt agagcggttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcac tattgggtga
 aagacgcttc ttctttgcat ctattacgat tcttt----- -ctccacgag t------att
-gcaattttaa tat---tttc attactc--- ---caaagag gtccc----- -g------tt
+gcaattttaa tat---tttc attac----- -tccaaagag gtccc----- -g------tt
 cc-------- -cctttt--- ---tcaaaga t---aaatca aagatttttc ttcttcttat
 ataactctta tgtatgtgaa tacgaatcca tttttttatt tctccgtaac caatctcttc
 atttacgatc aaccagtttt ggagcccttt ttgaacgaaa cattttctat ggaaaaatag
@@ -2509,7 +2478,7 @@ attctgatat tattgaacgg tttgggcgta tatacagaaa tttttttcat tattatagtg
 gatcttccaa aaaaaggagt ttgtatcgaa taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Solidago altissima
+>GPAGA100-17|Solidago altissima|GPAGA 358
 ---------- ---------- ---------- ---------- -agctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -2540,7 +2509,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
 gctcttcaaa aaaaaagagt ttgtatcaag taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Dactyloctenium aegyptium
+>GPAGA102-17|Dactyloctenium aegyptium|GPAGA 362
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -2554,7 +2523,7 @@ tatccgcaaa aaattacggt agagcatgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a actgcttgaa taccggatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-tgaattggaa tag---tctt ataactt--- ---caatgaa atcca----- -t------tt
+tgaattggaa tag---tctt ataac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -cttttt--- ---tcaaaag a---aaataa aagactatct cgatttctat
 ataactttta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct aggaagatgg
@@ -2571,7 +2540,7 @@ attgggatat tcttgatcgc tttggtcgga tatgtagaaa tctttttcat tatcatag--
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sonchus oleraceus
+>GPAGA105-17|Sonchus oleraceus|GPAGA 368
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-t ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -2602,38 +2571,7 @@ attctgatat tattgaccgc tttgggcgta tatacagaaa tctttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgag taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Symphyotrichum subulatum
----------- ---------- ------aagt gttggattca aagctggtgt taaagattat
-aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
-ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
-aatcttctac tggtacatgg acaactgtgt ggaccgatgg acttacgagc cttgatcgtt
-acaaagggcg atgctatgga atcgagcctg ttcctggaga agaaaatcaa tttattgctt
-atgtagctta cccattagac ctttttgaag aaggttctgt tactaacatg tttacttcca
-tcgtaggtaa tgtatttggg ttcaaagccc tgcgtgctct acgtctggaa gatttgcgaa
-tccctactgc gtatgttaaa actttccaag gtccgcctca cggcatccaa gttgagagag
-ataaattgaa caagtatggt cgtcccctgt tgggctgtac tattaaacct aaattggggt
-tatccgctaa aaactacggt agagctgttt atgaatgtct t--------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------a ggctcttcgc tattggataa
-aagatgcttc ctctttgcat ttattaagat tcttt----- -ctccatcag t------gtc
-ataattggga tag---tctt attacttcaa attcaaagaa agcca----- -g------tt
-ct-------- -tctttttca aaatcaaaaa g---aaatca gagattattc ttcttcctat
-atacttttca tgtatgtgaa tatgaatccg gcttcctctt tctccgtaac caatcttctc
-acttacgatc aacatcttct ggagccctta ttgaacgaat ttatttctat ggaaaaagag
-agca------ ---------- ---------- ---------- ---------- -----ctt--
-----tc---- --cc---agg gcttttcaag ------caaa tttatggttg ttcaa-----
--agatccttt catgcattat gttaggtatc aaggaaaatc cattcttgct ttaaaaggga
-cgtttcttct gatgaataaa tggaaagttt actttgtcaa tttctggaaa tccttttttt
-gcctgtggtc tcaaccagga aggatttat- -----ataaa cc------aa ttatccaatc
-a------ttc gcttgacttt ctgggttatc a------ttc aagtgtgcgg ctaaagcttt
-caatggtacg tagtcaaatg ttagaaaatg cgtttctaat ------cgat aatgc-----
--tattaagaa gtttgatact cttgttccaa ttatgcctct gattggatca ttggctaaat
-cgaaattttg taacgcattg gggcatccta ttggtaaggc ggtttgggcc gatttatcag
-attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
-gctcttcaaa aaaaaagagt ttgtatcaag taaagtat-- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------
->Vernonia altissima
+>GPAGA111-17|Vernonia altissima|GPAGA 379
 ---------- ---------- ---------- ---------- ---ctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -2664,7 +2602,7 @@ attctgatat tattgagcgc tttgggcgca tatacagaa- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Solidago erecta
+>GPAGA112-17|Solidago erecta|GPAGA 382
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -2695,7 +2633,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
 gctcttcaaa aaaaaagagt ttgtatcaag taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Stachys floridana
+>GPAGA114-17|Stachys floridana|GPAGA 385
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attataccc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ccgaagaagc aggggccgcg gtagctgccg
@@ -2709,7 +2647,7 @@ tatctgctaa aaactatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----gggtaa
 aagatgcttc ctccttgcat ttattacgag tcttt----- -ctcaacgaa t------att
-gtaattggaa tag---tctt cttagtt--- ---caaagaa agcca----- -g------tt
+gtaattggaa tag---tctt cttag----- -ttcaaagaa agcca----- -g------tt
 cc-------- -cttttt--- ---tcaaaaa a---aaaaaa tagattcttc ttcttcttat
 ataattctca tgtatgtgaa tatgaatcca ttttcgtctt tctacgtaat caatcttttc
 atttacgatc aacatcttct ggagtttttc ttgaacgaat ttatttctat ataaaactag
@@ -2726,7 +2664,7 @@ attctaatat tattgaccta tttggacgta tatgcagaaa tctttctcgt tatcatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Eichhornia crassipes
+>GPAGA115-17|Eichhornia crassipes|GPAGA 389
 ---------- ---------- ------aggt gttggattta aagcaggtgt taaagattac
 aaattgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -2740,7 +2678,7 @@ tatctgcaaa gaactatggt agagcggttt atgaatgttt a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aattcttcaa tcccgagtcc
 aggatgctcc ctctttgcat tttttgcggc tcttt----- -cttcaccaa t------atc
-ataattggaa tag---tctc attactc--- ---cgaagaa atcga----- -t------tt
+ataattggaa tag---tctc attac----- -tccgaagaa atcga----- -t------tt
 ct-------- -gttatt--- ---tcaaaag a---aaataa aagactattt tggttcttat
 ataattctta tatatctgaa tgcgaatttt tattagtgtt tcttcgtaaa caatcttctt
 atttaccatt aacatcttct ggagtctttc ttgagcgaac atattattat ggaaaaatac
@@ -2757,7 +2695,7 @@ tgtcggttag gaatcagatg cttgagaatt cttttctaat ------ggat actcc-----
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Symphyotrichum pilosum
+>GPAGA116-17|Symphyotrichum pilosum|GPAGA 390
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -2788,7 +2726,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
 gctcttcaaa aaaaaagagt ttgtatcaag t--------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Alysicarpus ovalifolius
+>GPAGA118-17|Alysicarpus ovalifolius|GPAGA 395
 ---------- ---------- ------aagt gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaagat accgatat-c ttggcagcat
 tccgagtaac tcctcaaccg ggagttccac ctgaagaagc aggtgctgcg gtagctgcgg
@@ -2802,7 +2740,7 @@ tatccgctaa gaattacggt agagcagttt acgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aatccttcga tattggataa
 aagatgtctt tttctttcat ttattaaggt tgttt----- -ttttattac t------att
-ctgactggaa tag---tctt tttactc--- ---caaaaaa atcga----- -tttc---ta
+ctgactggaa tag---tctt tttac----- -tccaaaaaa atcga----- -tttc---ta
 ct-------- -tttttt--- ---tttaaaa g---taattc aagatttttc ttactactat
 ttaatttata tgtatgggaa tacgaatcta tctttatttt tctacgtaac aaatcctctc
 cgttacgatt aaaatatttt cgtgtttttt ttgagcgaat ttttttctat gaaaaaatag
@@ -2819,7 +2757,7 @@ attttgatat tattgaccga tttttgcgaa tatgtagaaa tttttctcat tattacaacg
 gatcctcaaa aaaaaagact ttgtatcaaa taaaatat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Bidens laevis
+>GPAGA120-17|Bidens laevis|GPAGA 400
 ---------- ---------- ------aagt gttggattca aagccggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagccgccg
@@ -2850,7 +2788,7 @@ attctgatat tattgagcgc tttggccgta tatacagaaa tatttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgag taaaatat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Eupatorium capillifolium
+>GPAGA121-17|Eupatorium capillifolium|GPAGA 404
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgcc gtagctgccg
@@ -2881,7 +2819,7 @@ attctgatat tattgagcgc tttggccgta tatacagaaa cctttctcat tatcatagtg
 gatcttcaaa aaaaaaaagt ttgtatcgag taaaatat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Lonicera japonica
+>GPAGA122-17|Lonicera japonica|GPAGA 405
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagattac
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc gggggccgcg gtagctgctg
@@ -2895,7 +2833,7 @@ tatctgctaa aaactacggt agggcggttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcgc tactgggtaa
 aagatgcccc ctctttgcat ttattacgat tcttt----- -ctccacgag t------atc
-ctaatttgac tag---tctt attattc--- ---caaagaa aaccg----- -g------tt
+ctaatttgac tag---tctt attat----- -tccaaagaa aaccg----- -g------tt
 ct-------- -tctttt--- ---tcaaaac g---aaatca aagattattt ttcttcctat
 ataattctca tgtatgtgaa tacgaattca tcttcgtctt tctccgtaac caatcttctc
 atttacgatc aacatcttct ggagcccttc ttgaacgaat atatttttat gaaaaaatag
@@ -2912,7 +2850,7 @@ attctgagat tattgaccga tttgggcgga tatgcagaaa tctttctcat tatcatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Heterotheca subaxillaris
+>GPAGA127-17|Heterotheca subaxillaris|GPAGA 416
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -2943,7 +2881,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
 gctcttcaaa aaaaaagagt ttgtatcaag taaa------ ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Lamium amplexicaule
+>GPAGA128-17|Lamium amplexicaule|GPAGA 417
 ---------- ---------- ------aggt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attataccc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ccgaagaagc aggggccgcg gtagctgccg
@@ -2957,7 +2895,7 @@ tatccgctaa aaactatggt agagctgttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aatccttcga tattgggtaa
 aagatgcttc ctccttgcat ttattacgag tcttt----- -ctcaacgaa t------att
-gtaattggaa tag---tctt attattc--- ---caaagaa agcta----- -g------tt
+gtaattggaa tag---tctt attat----- -tccaaagaa agcta----- -g------tt
 cc-------- -ccttct--- ---tcaaaaa a---aaataa aagattatta ttattcttat
 ataattctca tgtatgtgaa tatgaatcca ttttcgtctt tctacgtaac caatcttttc
 atttacgatc aacatcttct gaagtttttc tggaaagaat ctatttctat ataaaaatag
@@ -2974,7 +2912,7 @@ caaaattttg taacgtattg gggcatcccg ttagtaagcc gactcggaca gatttatc--
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Galium aparine
+>GPAGA131-17|Galium aparine|GPAGA 426
 ---------- ---------- ------gggt gttggattca aagctggtgt taaagagtat
 aaattaactt -attatactc ctgaatacga aaccaaagat actgatat-t ttggcagcat
 tccgagtaac tcctcaaccg ggagttccgc cggaagaagc gggggccgcg gtagctgccg
@@ -2988,7 +2926,7 @@ tatctgctaa aaactacggt agagcggttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aacccttcgt tattcggtaa
 aagatgcctc tgccttgcat ttattacgct tattt----- -ttccatgag t------att
-ggagttggaa tac---tctt agtgtta--- ---caaagaa acgcc----- -t-----ttt
+ggagttggaa tac---tctt agtgt----- -tacaaagaa acgcc----- -t-----ttt
 tg-------- -atttttca- ---ccaaaaa g---aaatca aagatttttt ttcttattat
 ataattctta tgcatatgaa tacgaatcca ttttttactt tttgcgtaac aaatcttctc
 aattgcgatc aacatctttt gtattctttc ttgaacgtct ctatttttat ggaaaaaaag
@@ -3005,7 +2943,7 @@ attctgatat gattgaccga tttgggtata tatccagaaa tctttctcat tactatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Fumaria officinalis
+>GPAGA135-17|Fumaria officinalis|GPAGA 435
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattac
 aaattgactt -attatactc ctgaatatga aactaaagat acggatat-c ttggcagcat
 tccgagtcac tcctcaacct ggagttccac ctgaggaagc aggggccgcg gtagctgccg
@@ -3019,7 +2957,7 @@ tatccgcgaa gaactatggt cgcgcggttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aaacctccga tcttggatac
 aagatgcccc ctctttacat ttattccgac tcttt----- -ctccacgag t------ctc
-gtaatttgag tag---tctg attactc--- ---aaaagaa agcct----- -t------tt
+gtaatttgag tag---tctg attac----- -tcaaaagaa agcct----- -t------tt
 ct-------- -tttttt--- ---tcaaaag a---gaataa aagattcttc ttgttcctat
 ataattatca tatatatgaa tgggaatccc tattcatgtt tctctgtaaa caatcctttc
 atttacgagc aacatctttt ggaaatcttc ttgagcgaac atatttctat ggaaaaatag
@@ -3036,7 +2974,7 @@ attctgatat tctcaatcga tttggtcgga tatgcagaaa tctttctcat tattacagtg
 gatcctcaaa aaaaaagagt ttgtatcaga taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cinnamomum camphora
+>GPAGA136-17|Cinnamomum camphora|GPAGA 438
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattac
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-t ttggcagcat
 ttcgagtaac tcctcaaccc ggagttccac ctgaggaagc aggggctgcg gtagctgccg
@@ -3050,7 +2988,7 @@ tatccgccaa gaactacggt agagcggttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aacccttcac tcttggatac
 aagatactcc ttcgttgcat ttattgcgat tctct----- -ctctacgag t------att
-ggaattcaaa tag---tctc attactc--- ---caaaaaa ttcca----- -t------tt
+ggaattcaaa tag---tctc attac----- -tccaaaaaa ttcca----- -t------tt
 cc-------- -cttttt--- ---tcaaaag a---gaatca aagattcttc ttgttcctct
 ctaattctca tgtatatgaa tgtgaattca tattcatttt tctccgtaaa caaccctttc
 atttacgatc aaaatctttt ggatcctttc ttgagcgaac acatttctat gcaaaaatag
@@ -3067,7 +3005,7 @@ attctgagat tctcaatcga tttgggcgga tatgcagaaa tctttctcat tatcacagtg
 gatcctcaaa aaaacagagt ttgtatcgta taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Anagallis arvensis
+>GPAGA137-17|Anagallis arvensis|GPAGA 440
 ---------- ---------- ------aggt actggattca aagctggtgt taaagattac
 aaattgactt -attatactc ctgagtatgt aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ccgaagaagc aggggccgca gtagctgccg
@@ -3081,7 +3019,7 @@ tatccgctaa aaactacggt agggctgttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcgc tactgggtaa
 aagatgcttc ttctttgcat ttattacgaa ccttt----- -cttcacaag t------atc
-ataattggaa tag---tctt attactc--- ---caaaaaa atcctt---- -t--------
+ataattggaa tag---tctt attac----- -tccaaaaaa atcctt---- -t--------
 ---------- ---------- ---ttaaaaa g---aaagaa acggctctta ttcttcttat
 ataattttta tgtatatgaa tacgaatcga tcttcgcctt tctccgcaat caaccttctc
 atttacaatc aaaatcttat ggaccctttt ttgaaagaat atatttctat gaaaaacgag
@@ -3098,38 +3036,7 @@ attcagaaat tattgaccga tttgggcgta tatatcgaaa tctttctcat tattatagtg
 gatcctcaaa aaaaatgagt ttgtatcgaa taaa------ ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Lepidium virginicum
----------- ---------- ------aagt gttggattca aagctggtgt taaagagtat
-aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
-tccgagtaac tcctcaaccc ggagttccac ctgaagaagc aggggctgcg gtagctgctg
-aatcttctac tggtacatgg acaactgtgt ggaccgatgg gcttaccagc cttgatcgtt
-acaaaggacg atgctaccac atcgagcccg ttccaggaga agaaactcaa tttattgcgt
-atgtagctta cccnttagac ctttttgaag aaggttcggt tactaacatg tttacctcga
-ttgtgggtaa tgtatttggg ttcaaagccc tggctgctct acgtctggag gatctgcgaa
-tccctcctgc ttatactaaa actttccaag gaccacctca tggtatccaa gttgaaagag
-ataaattgaa caagtatgga cgtcccctat taggatgtac tattaaacca aaattgggat
-tatccgcgaa gaactatggt agagcagttt atgaatgtct a--------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------- --------ga tactgggtga
-aagatgcccc tttttttcat ttattacggc tattt----- -ctttctaat t------ttt
-gtaattggaa tcg---tttt attacta--- ---ccaaaaa atcga----- -t------tt
-ct-------- -actttt--- ---tcaaaaa g---taatcc aagatttttc ttgttcctct
-ataattttta tgtatgtgaa tatgaatcta tcttcgtttt tctacgtaat aaatcctctc
-atttacgatt aaaatctttt agcgtttttt ttgagcgaat ttttttttct gcaaaaagag
-agcat----- -ct------t ---------- ---------- -gtaaaagt- -----gtt--
-----tg---- --ct---aaa gatttttcgt ------atac tttaacattc ttcaa-----
--ggatcctaa cattcattat gttcgatatc aaggaaaatg cattatggct tcaaagaatg
-cgcctttttt gatgaataaa tggaaacact attttatcca tttatggcaa tgtttttttg
-atgtttggtc tcaaccaaga atgatcaat- -----ataaa ct------ca ttatccgaac
-a------ttc atttcagctt ttaggctatt t------ttc aaatgtgcga ctaaatcgtt
-cagtggtacg gagtcaaatg ctgcaaaata catttctaat ------cgaa attgt-----
--tattaaaaa acttgatata atagttccaa ttattcctct aattagatca ttggctaaag
-cgaaattttg taatgtatta gggcagccca ttagtaagcc ggtctgggcc gattcatccg
-attttgatat tattgaccga tttttgggaa tatgcagaaa tctttctcat tattataatg
-gatcctcaaa aaaaaaaagt ttgtatcgaa taaaat---- ---------- ----------
----------- ---------- ---------- ---------- ---------- ----------
----------- ---------- ---------- ---------
->Smilax smallii
+>GPAGA139-17|Smilax smallii|GPAGA 444
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattac
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaggc aggggcagcg gtagccgcag
@@ -3143,7 +3050,7 @@ tatccgcaaa gaactacggt agagcggttt atgaatgtct g--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- -tcgttacat ttattgcgac tcttt----- -cttcataaa t------atc
-ataatttgaa tag---attt attactc--- ---tgaataa atcta----- -t------tt
+ataatttgaa tag---attt attac----- -tctgaataa atcta----- -t------tt
 ac-------- -gttttt--- ---tcaaaag a---aaatac aagactattt cgcttcctgt
 ataattctta tgtagctgaa tgcgaatttt tattagtttt tcttcgtaaa caatcctatt
 atttacgatc aacatcttct ggaacctttc ttgaacgaac acatttctat ggaaaaatag
@@ -3160,7 +3067,7 @@ attctgatat tattgatcga tttggtcgga tatgtagaaa tctttctcat tattatagtg
 gatcttcaaa aaaacaaagt ttgtatcgaa taa------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Morus alba
+>GPAGA141-17|Morus alba|GPAGA 448
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attacactc ctgaatatga agtcaaagat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttcccc ctgaagaagc aggggctgcg gtagctgctg
@@ -3174,7 +3081,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aacccttcgc tactgggtaa
 aagatgcctc ctctttgcat ttattacggt ttttt----- -cttcacgac t------att
-ataattggaa tac---tctt attattc--- ---caaataa atata----- -t------tt
+ataattggaa tac---tctt attat----- -tccaaataa atata----- -t------tt
 ct-------- -attttt--- ---tcaaaaa g---taatcc aagattattc ttgttcctat
 ataattctca tgtttgcgaa tacgaatcta tcttactctt tctacgtaac caatcttctc
 atttacgatt aacatcttct gggggttttt ttgagcgaat atatttctat ggaaaaataa
@@ -3191,7 +3098,7 @@ attttgatat tatcgaccga tttgtgtgta tatgcagaaa tctttttcat tattacagtg
 gatcctcaaa aaaaaagagt ttgtatcgaa taaaatat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Senecio vulgaris
+>GPAGA143-17|Senecio vulgaris|GPAGA 451
 ---------- ---------- ------gagt gttggattca aggctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacca ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -3222,7 +3129,7 @@ attctgatat tattgagcgc tttgggcgta tatacagaaa tctttctcat tatcatag--
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Melilotus indicus
+>GPAGA144-17|Melilotus indicus|GPAGA 454
 ---------- ---------- ------aaag gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaag tcctcaacct ggagttccgc ctgaagaagc aggtgcagcg gtagctgccg
@@ -3236,7 +3143,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aatccttcga tactgggtga
 aagatgcccc tttttttcat ttattacgat tgttt----- -ctttataat t------ttt
-gtaattggaa tag---tttt attacta--- ---ccaaaaa atcga----- -t------tt
+gtaattggaa tag---tttt attac----- -taccaaaaa atcga----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---taatcc gagattattc ttgttcctct
 atcattttta tgtatgtgaa tatgaatcta tcttcctttt tctacgtaat aaatcctctc
 atttacgatt aaaatctttt agcgtttttt ttgaacgaat ttttttttat gcaaaaagag
@@ -3253,7 +3160,7 @@ attttgatat tattgaccga tttttgcgaa tatgcagaaa tctttctcat tattacaat-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Hypochaeris glabra
+>GPAGA145-17|Hypochaeris glabra|GPAGA 456
 ---------- ---------- ------aagt gttggattca aagctggggt taaagattat
 aaattgactt -attatactc ctgactacga aaccaaggat actgatat-t ttagctgcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgct gtagccgctg
@@ -3284,7 +3191,7 @@ attcttatat tattgaccga tttgggcgta tatacagaaa tctttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgag taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cirsium discolor
+>GPAGA148-17|Cirsium discolor|GPAGA 462
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -3315,7 +3222,7 @@ attctgatat tattgatcgc tttggacgta tatacagaaa cctttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgag taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Wahlenbergia marginata
+>GPAGA150-17|Wahlenbergia marginata|GPAGA 468
 ---------- ---------- ------aaat gttggattta aagctggtgt taaagattat
 aaattaactt -attatactc cggactatga aaccaaggat acggatat-t ttggcagcct
 ttcgagtaag ccctcaaccc ggagttcccc cggaagaagc aggggctgca gtagctgctg
@@ -3329,7 +3236,7 @@ tatccgctaa aaactacggc agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a agctcttcgc tactggctaa
 aagatgcttc atctttgcat ttcgtaagat tcttt----- -ctccacgag t------ttc
-ataattggaa tag---tctt attactt--- ---caaataa agccg----- -g------ca
+ataattggaa tag---tctt attac----- -ttcaaataa agccg----- -g------ca
 ct-------- -tctttt--- ---tcaaaaa g---aaatcc aagattgttc ttcttcctat
 ataattctca tgtatgtgaa tacgaatccg tctttgtctt tctccgtaac caatcttcgc
 atttacgatc aacatcttct agagcccttc ttgaacgaat atttttctat gcaaaaatag
@@ -3346,7 +3253,7 @@ attcagatat tattctgcga ttcgcgcgta tatgcagaaa tctttctcat tattatagtg
 gatcctcaaa aaaaaagagt ttgtctcgaa taaaata--- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Veronica agrestis
+>GPAGA152-17|Veronica agrestis|GPAGA 472
 ---------- ---------- ------aagt gttggattta aagcgggtgt taaagagtac
 aaattgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtatc tcctcaaccg ggagttccac ctgaagaagc aggcgctgcg gtagcagccg
@@ -3360,7 +3267,7 @@ tatctgctaa aaactacggt agagcatgtt atgaatgcct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcgc tacagggtca
 aagatgtttc ttctttgcat ttattacgat ttttg----- -ctcaatgag t------att
-gtaattgcaa tag---tatt attacta--- ---caaagaa ggcgg----- -g------tt
+gtaattgcaa tag---tatt attac----- -tacaaagaa ggcgg----- -g------tt
 cc-------- -tctttt--- ---tcaaaac g---aaatca aagattattc ttattcttat
 ataattctca tgtatgtgaa tatgaatccg tttttggctt tttacgtaac caatcttttc
 atttacgatc agcatcttcc ggagctcttc ttgaacgaat ttatttctat ggaaaagtag
@@ -3377,7 +3284,7 @@ attccaatat tatttaccga tttgtccata tatgcagaaa tctttctcat tattatagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Scutellaria racemosa
+>GPAGA154-17|Scutellaria racemosa|GPAGA 479
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attataccc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgcg gtagctgccg
@@ -3391,7 +3298,7 @@ tatctgctaa aaactatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aacccttcgc tattgggtaa
 aagatgcttc ttctttgcat ttattacgag tcttt----- -ctgaacgaa t------att
-gtaattggaa tag---tctt attattc--- ---caaagaa gggca----- -g------ct
+gtaattggaa tag---tctt attat----- -tccaaagaa gggca----- -g------ct
 cc-------- -tctttt--- ---tcaaaaa g---aaatcc aaaattattc ttattcttat
 ataattctca tgtatgtgaa tacgaatcca ttttcgtctt tctacgtaac caatcttttc
 atttacgatc aacatcttct ggagttctta ttgaacgaat ctatttctat gtaaaactag
@@ -3408,7 +3315,7 @@ attctaatat tattgaccga tttgggcgta tatgcagaaa tctttctcat tatcatagcg
 gatcttccaa aaaaaagagt ttgtatcgaa ta-------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Trifolium incarnatum
+>GPAGA155-17|Trifolium incarnatum|GPAGA 481
 ---------- ---------- ------acag gttgggttca aagctggtgt taaagattat
 aggttgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccac ctgaagaagc aggtgcagcg gtagctgccg
@@ -3422,7 +3329,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aatccttcga tactgggtga
 aagatgcccc tttttttcat ttattacggt tattt----- -ctttatcat t------tta
-gtaattggaa tgg---tttt attacta--- ---ccaaaaa atcga----- -t------tt
+gtaattggaa tgg---tttt attac----- -taccaaaaa atcga----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---taatcc aagattattc ttgttcctct
 ataattttta tgtatgtgaa tatgaatcta tcttcctttt tctacgtaat aaatcctctc
 atttacgatt aaaatctttt agcgtttttt tagagcgaat ttttttttat gcaaaaagag
@@ -3439,7 +3346,7 @@ attttgatat tattgagcga tttttgcgaa tatgcagaaa tctttctcat tattacaatg
 gatcctcaaa aaaaaaa--- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Nuttallanthus canadensis
+>GPAGA156-17|Nuttallanthus canadensis|GPAGA 483
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaag tcctcaacct ggggttccgc ctgaagaagc aggggctgca gtagctgccg
@@ -3453,7 +3360,7 @@ tatccgctaa aaactatggt agagcatgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcgc tattggctaa
 aagatgcctc ttccttgcat ttattacgat tcttt----- -ctcaacgag t------att
-gtaacgggaa tcg---tctt attattc--- ---caaagaa agcca----- -g------ct
+gtaacgggaa tcg---tctt attat----- -tccaaagaa agcca----- -g------ct
 tc-------- -tctttt--- ---tcaaaaa t---aaatcc aagattattc ttattcttat
 ataattctta cgtatccgaa tatgaatcta tttttgtttt cctacgtaac caatcttctg
 atttacgatc aacatcttat ggagtttttt ttgaacgaat ctatttctat agaaaaatag
@@ -3470,7 +3377,7 @@ attctaatat tattgcccgg tttgggcata tatgcagaa- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Medicago polymorpha
+>GPAGA157-17|Medicago polymorpha|GPAGA 484
 ---------- ---------- ------aacg gttgggttca aagctggtgt taaagattat
 agattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaag tcctcaacct ggagttccgc ctgaagaagc aggtgcagcg gtagctgccg
@@ -3484,7 +3391,7 @@ tatccgctaa aaattatggt agagctgttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aatccttcga tactgggtga
 aagatgcccc tttttttcat ttattacgat tgttt----- -ctttataat t------tta
-gtaattggaa tag---tttt attacga--- ---ccaaaaa ctcga----- -t------tt
+gtaattggaa tag---tttt attac----- -gaccaaaaa ctcga----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---taatcc gagattattc ttgttcctct
 ataattttta tgtatgtgaa tatgaatcta tcttcctttt tctacgtaat aaatcctctc
 atttacgatt aaaatctttt agcgtttttt ttgaacgaat ttttttttat gcaaaaagag
@@ -3501,7 +3408,7 @@ attttgatat tatggaccga tttttgcgaa tatgcagaaa tctttctcat tattacaatg
 gatcctcaaa aaaaaaaagt ttgtatcgaa taaaatat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Triodanis biflora
+>GPAGA159-17|Triodanis biflora|GPAGA 489
 ---------- ---------- ------aact gttggattta aggctggtgt taaagattat
 aaattaactt -attatactc cagactatga aaccaaagat accgatat-t ttggcagcct
 ttcgagtaac tcctcaaccc ggagttcccc cggaagaagc aggggccgca gtagctgccg
@@ -3515,7 +3422,7 @@ tatccgctaa aaactacggc cgagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a agctcttcgc tactggctaa
 aagatgcttc ggctttgcat tttgtaagat tcttt----- -ctccacgag t------ttc
-ataattggaa tag---tctt attacgt--- ---caaagaa agtcg----- -g------tc
+ataattggaa tag---tctt attac----- -gtcaaagaa agtcg----- -g------tc
 ct-------- -tctttt--- ---tcagaaa g---aaatca aagattcttc ttcttcctat
 ataattctca tgtatgtgaa tatgaatcca tctttgtctt tctccgcaac caatcttctc
 atttacgatc aacatcttct agagcctttg ttgaacgaat ctatttctat ggaaaaatag
@@ -3532,7 +3439,7 @@ attctgatat tattgatcga ttcgggcgta tatccagaaa tctttctcat tatcatagtg
 gatgctcaaa aaaaaagagt ttgtttcgaa taa------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Spergularia marina
+>GPAGA160-17|Spergularia marina|GPAGA 491
 ---------- ---------- ------aagt gttggattca aagcgggtgt taaagagtac
 aaattgactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgcg gtagctgccg
@@ -3546,7 +3453,7 @@ tatctgctaa aaactacggt agagcatgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcgc tattgggtaa
 aagatgcctc ttctttgcat ttattacgat tcttt----- -ctccacgat t------att
-ataattggaa tag---tctt attactn--- ---caaggaa agcca----- -g------tt
+ataattggaa tag---tctt attac----- -tncaaggaa agcca----- -g------tt
 ct-------- -tctttt--- ---tcaaaaa g---aaatca aagattattc ttcttcttat
 ataattctca tgtctatgaa tacgaatcca ttttcgtctt tctacgtaat caatattctc
 atttaccatc aacatccttt ggagcttttc ttgaacgaat ccatttctat ggaaaaatgg
@@ -3563,7 +3470,7 @@ attctgatat tatagaccga tttgggcgta tatgcagaaa tatttctcat t---------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Phalaris caroliniana
+>GPAGA162-17|Phalaris caroliniana|GPAGA 497
 ---------- ---------- ------aagt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggagtatga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggggttcctc cggaagaagc aggggctgca gtagctgccg
@@ -3577,7 +3484,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a actccttcaa taccgtatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactac t------att
-caaattggaa tag---tttt attactt--- ---caatgaa atcta----- -t------tt
+caaattggaa tag---tttt attac----- -ttcaatgaa atcta----- -t------tt
 tt-------- -cttttt--- ---aaaaaag a---aaataa aagactattt cgattcttat
 ataattctta tttatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttaccatt agcatcttct ggaacttttc tggaacgaat catcttttct aggaagatgg
@@ -3594,7 +3501,7 @@ ctcaattt-- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Oxalis violacea
+>GPAGA163-17|Oxalis violacea|GPAGA 499
 ---------- ---------- ------aagt gttggattca aggccggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttcccc ctgaggaagc cggggcagcg gtagctgctg
@@ -3608,7 +3515,7 @@ tatccgctaa gaattatggt agagcagttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aattcttcgc tactgggcga
 aggatgcctc ttctttgcat ttagtacggc tcttt----- -ttctacgag t------att
-ataagtggaa tag---tctt attaatt--- ---caaagaa ctcta----- -g------tt
+ataagtggaa tag---tctt attaa----- -ttcaaagaa ctcta----- -g------tt
 cc-------- -attttt--- ---tcaaaga g---taatcc aagattgttc ttgttcttat
 ataattctca tgtatacgaa tacgaatcca ttcttctttt tctctctaac caatcttctc
 atttacgatc aacatctttt cggatttttt ttgagcgaat ccttttttat ggaaaaatag
@@ -3625,7 +3532,7 @@ attctgatat ta-------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Rumex hastatulus
+>GPAGA165-17|Rumex hastatulus|GPAGA 503
 ---------- ---------- ------aggt gttggattca aagctggtgt taaagaatac
 aaattgactt -attatactc ctgactatga accccatgac catgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccac cagaagaagc aggggccgcg gtagctgccg
@@ -3639,7 +3546,7 @@ tgtccgctaa gaactacggc cgagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---tttgcat ttattacgat tcttt----- -ctttatgag t------att
-gtaa------ tag---tgtt attactc--- ---taaaacg gtctg----- -t------tt
+gtaa------ tag---tgtt attac----- -tctaaaacg gtctg----- -t------tt
 cc-------- -catttt--- ---tcaaaaa aaaaaaataa aagattctta ttgttcctat
 ataattccta cgtatgtgaa tgcgaatcca tcttcggttt tctccgcaac caaccctctc
 atttacgatc aacatcttac ggagcatttc ttgcacgagt ttctttttac ctaaagttag
@@ -3656,7 +3563,7 @@ attctgatat tattcgccga tttggacgta tatgtagaaa tctttcttat tattacagcg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Solanum americanum
+>GPAGA168-17|Solanum americanum|GPAGA 508
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagagtac
 aaattgactt -attatactc ctgagtacca aaccaaggat actgatat-a ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc aggggccgcg gtagctgccg
@@ -3670,7 +3577,7 @@ tatctgctaa aaactatggt agagctgttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcgc tattgggtaa
 aagatgcctc ttctttacat ttattacgat tcttt----- -ctccacgaa t------att
-g--------- tag---tctt attactt--- ---caaagaa gcccg----- -g------tt
+g--------- tag---tctt attac----- -ttcaaagaa gcccg----- -g------tt
 ac-------- -tccttt--- ---tcaacaa a---aactca aagattcttc ttcttcttat
 ataattctta tgtatatgaa tgcgaatcca ctttcgtctt tctacggaac caatcttctc
 atttacgatc aacatctttt ggagcccttc ttgaacgaat atatttctat ggaaaaatag
@@ -3687,7 +3594,7 @@ attctgatat tattgaccga tttgggcgta tatgcagaaa tctttttcat tattatagcg
 gatcttgcaa aaaaaagact ttatatcgaa taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Poa annua
+>GPAGA170-17|Poa annua|GPAGA 513
 ---------- ---------- ------aagt gttggattta aagctggtgt taaagattat
 aaattgactt -actacactc cggagtatga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagcct ggagttcccc cggaagaagc aggggctgca gtagctgccg
@@ -3701,7 +3608,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a attccttcaa taccgtatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactac t------att
-caaattggaa tag---tttt attactt--- ---caatgaa atcca----- -t------tt
+caaattggaa tag---tttt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -tttttt--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtattagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttaccatt agcatcttct ggaacttttt tggaacgaat ccacttttcg agtaagatgg
@@ -3718,7 +3625,7 @@ attgggatat tcttgatcga tttggtcgga tatgtagaaa tctttttcat tatcatagtg
 gatcttcgaa aaaacagact ttgtatcgac taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Chaerophyllum tainturieri
+>GPAGA171-17|Chaerophyllum tainturieri|GPAGA 516
 ---------- ---------- ------aggt gttggattca aagctggggt taaagattac
 aaattgactt -attatactc ctgagtatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc gggagccgcg gtagctgccg
@@ -3732,7 +3639,7 @@ tatccgctaa aaactacggt agagcggttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactctgcgc tactgggtaa
 aagacgcttc ttctttacat ttattacgat tcttt----- -ctccatgag t------att
-gtagttggaa tac---tt-- ---------- ---caaataa agcca----- -g------tt
+gtagttggaa tac------- ---------- -ttcaaataa agcca----- -g------tt
 ct-------- -tgtttt--- ---tcaaaaa t---aaatca aaggtttttc ttcatcctat
 ataattctca tctatgtgaa tacgaatcca tcttcgtctt ttttcgtaac caatcttctc
 atttatgctc aacgtcttct ggaacccttc ttgaacgaat ctatttctat ggaaaactag
@@ -3749,7 +3656,7 @@ attctgatat tgttgtccga tttgggcgta tatgcaaaaa tatttctcat tattatagtg
 gatcctcaca aaaaaagagt ttgtatc--- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Zeuxine strateumatica
+>GPAGA172-17|Zeuxine strateumatica|GPAGA 518
 ---------- ---------- ------aagc gttggattta aagctggtgt tagagattac
 aagttgactt -attatactc ctgaatacga aaccaaaagt actgatat-c ttggcagcat
 tccgagtaac tcctcaaccg ggagttccgc ctgaagaagc gggcgctgcg gtagcagccg
@@ -3763,7 +3670,7 @@ tatccgcaaa aaactatggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aattcttcaa tgctggatca
 aagatgttcc ttctttgcat ttgttgcgat tgatt----- -ttccacgaa t------atc
-ataatttgaa gaa---tatc attactt--- ---caaacaa atcca----- -t------tc
+ataatttgaa gaa---tatc attac----- -ttcaaacaa atcca----- -t------tc
 ac-------- -gtcttt--- ---tcaaaaa g---aaaaaa aagatttttt tggttcttac
 atagttttta tgtatatgaa tgcgaatatc tctttttgtt tcttcgtaaa aagtcttctt
 atttaagatc aacctctttt gaatttttta ttgagcgaac acatttttat gtaaaaatgg
@@ -3780,7 +3687,7 @@ attctgatat tattgatcga ttt------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Pyrrhopappus carolinianus
+>GPAGA176-17|Pyrrhopappus carolinianus|GPAGA 34
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-t ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -3811,7 +3718,7 @@ attctgatat tattgaccgt tttgggcgta tatacagaaa tttttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgag taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Erechtites hieracifolia
+>GPAGA182-17|Erechtites hieracifolia|GPAGA 86
 ---------- ---------- ------gagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacca ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -3842,7 +3749,7 @@ attctgatat tattgagcac tttgggcgta tatacagaaa tctttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgcg taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Cyperus echinatus
+>GPAGA185-17|Cyperus echinatus|GPAGA 109
 ---------- ---------- ------aagt gttggattta aagctggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccac ctgaagaagc aggggctgca gtagctgcgg
@@ -3856,7 +3763,7 @@ tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aatccttcaa tgctggatcc
 aagatattcc ttctttgcat ttattgagat tcttt----- -ctcttcgat t------att
-ctaattggaa tag---tctc attattt--- ---caaagaa attagcttct at------tt
+ctaattggaa tag---tctc attat----- -ttcaaagaa attagcttct at------tt
 ct-------- -atattc--- ---tcaaaag a---aaatat aagactctct cgtttcttat
 ataattatta tgtatctgaa tatgagtttt tattcttgtt tattcgtaaa aaatcttctt
 gtttacgatt aacatctttt ggaacctttc ttgagcgaat ctacttctat ggaaaaatag
@@ -3873,7 +3780,7 @@ attatgatat tattagtcga tttggtcaaa tatataaaaa tatttttcat ttttatagtg
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Melilotus albus
+>GPAGA187-17|Melilotus albus|GPAGA 119
 ---------- ---------- ------aaag gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaag tcctcaacct ggagttccgc ctgaagaagc aggtgcagcg gtagctgccg
@@ -3887,7 +3794,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- tttaaattat gtgtcagata
 tacgaatacc atatcctatc catctggaaa tattagttca aatccttcga tactgggtga
 aagatgcccc tttttttcat ttattacgat tgttt----- -ctttatcat t------ttt
-gtaattggaa tag---tttt attacta--- ---ccaaaaa atcga----- -t------tt
+gtaattggaa tag---tttt attac----- -taccaaaaa atcga----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---taatcc gagattattc ttgttcctct
 ataattttta tgtatgtgaa tatgaatcta tcttcctttt tctacgtaat aaatcctctc
 atttacgatt aaaatctttt agcgtttttt ttgaacgaat ttttttttat gcaaaaagag
@@ -3904,7 +3811,7 @@ attttgatat tattgaccga tttttgc--- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Hydrocotyle umbellata
+>GPAGA190-17|Hydrocotyle umbellata|GPAGA 493
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattac
 aaattgactt -attatactc ctgaatatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcagcct ggagttccgc ccgaagaagc aggggccgcg gtagctgctg
@@ -3918,7 +3825,7 @@ tatcggctaa aaactacggt agagcggttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------a aactcttcgt tactcggtaa
 aagatgcttc ttctttacat ttattgcgat tcttt----- -ctccacgag t------att
-gtaattggag tac---cc-- ---------- ---caaataa agtcg----- -g------tt
+gtaattggag tac------- ---------- -cccaaataa agtcg----- -g------tt
 tt-------- -tttttt--- ---tcaaaaa g---aaataa aagactattc ttcttcctat
 ataattctta tctatgtgaa tacgaatcca tcttcgtctt tctccgtaac caatcttctc
 gtttacgctc aacatcttct ggaacccttc ttgaacgaat atatttctat ggaaaaataa
@@ -3935,7 +3842,7 @@ attctgatat tattgaccgg tttgggcgga tatgcagaaa tctttctcat tatcatagtg
 gat------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ambrosia artemisiifolia
+>GPAGA218-18|Ambrosia artemisiifolia|GPAGA 58
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -3966,7 +3873,7 @@ attctgatat tattgagcgc tttggccgta tatacagaaa tctttctcat tatcatagtg
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Triadica sebifera
+>GPAGA221-18|Triadica sebifera|GPAGA 66
 ---------- ---------- ------aagt gttggattca aggctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaggaagc aggagctgcg gtagctgctg
@@ -3980,7 +3887,7 @@ tatctgctaa gaattacggt agagcggttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- tttaaattat gtgtcagatg
 cattaatacc ttaccccatc catctagaaa aattgattca aacccttcgc tattgggtga
 aagatccttc ttctttgcat ttattacgac tcttt----- -cttcatcag t------att
-ggaattggaa cag---tctt attattc--- ---caaagaa atcga----- -t------tt
+ggaattggaa cag---tctt attat----- -tccaaagaa atcga----- -t------tt
 ct-------- -attttt--- ---agaaaga g---gaatcc aagatttttc ttgttcctat
 ataattctca tgtatatgaa tatgaatcca tcttcttttt tctccgtaac cagtcctttc
 atttacgatc aacattttct cgagtctttc ttgaacgaat ttatttctat ggaaaaatag
@@ -3997,7 +3904,7 @@ attctgatat tatcgaccga tttgtgcata tatgcacaaa tctttctcan tattatagtg
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Rubus trivialis
+>GPAGA235-18|Rubus trivialis|GPAGA 105
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attacactc cggactatga aaccaaagat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaggaagc aggggccgcg gtagctgcgg
@@ -4011,7 +3918,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ------ttat gcatcagatg
 tactaatacc ctaccccatt catctggaaa tcttggttca aaaccttcgc tactgcgtga
 aagatccctc ttctttgcat ttattacggc tcttt----- -cttcacgag t------att
-ataattggaa tag---tctt attactc--- ---cccaaaa a--------- ---------t
+ataattggaa tag---tctt attac----- -tccccaaaa a--------- ---------t
 ct-------- -attttt--- ---gcaaaaa g---taatcc aagattattc ttgctcctat
 ataattctta tatatgtgaa tatgaatcca ttttactttt tctccgtaac caatctaatc
 atttacgatt aacctcttct gggatctttt ttgagcgaat atgtttttat gaaaaaagaa
@@ -4028,7 +3935,7 @@ antctgatat tatcgaccga tttgtgcgta taggcggaaa tctttctcat tattatagcg
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Lactuca canadensis
+>Lactuca canadensis|rbcL
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaggat actgatat-t ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggagccgca gtagctgccg
@@ -4059,7 +3966,38 @@ attctgatat tattgaccgc tttgggcgta tatacagaaa tctttctcat tatcatagtg
 g--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Liquidambar styraciflua
+>Lepidium_virginicum.2 virginicum|rbcLa|MG248574
+---------- ---------- ---------- ---------- ---------- ----gagtat
+aaattgactt -attatactc ctgaatatga aaccaaggat actgatat-c ttggcagcat
+tccgagtaac tcctcaaccc ggagttccac ctgaagaagc aggggctgcg gtagctgctg
+aatcttctac tggtacatgg acaactgtgt ggaccgatgg gcttaccagc cttgatcgtt
+acaaaggacg atgctaccac atcgagcccg ttccaggaga agaaactcaa tttattgcgt
+atgtagctta cccattagac ctttttgaag aaggttcggt tactaacatg tttacctcga
+ttgtgggtaa tgtatttggg ttcaaagccc tggctgctct acgtctagag gatctgcgaa
+tccctcctgc ttatactaaa actttccaag gaccacctca tggtatccaa gttgaaagag
+ataaattgaa caagtatgga cgtcccctat taggatgtac tattaaacca aaattgggat
+tatccgcgaa gaactatggt agagcagttt atgaatgtct a--------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--------tc ttctttgcat ttttttcggt tctgt----- -ctatacgag t------att
+gcaattggaa gaa---tttt tatat----- -aaaaaaaaa agcaa----- --------tt
+tt-------- ---------- ---------- ----gaatcc aagatttttc ttgttcttat
+ataattctca tatatgtgaa tacgaatcca tatttttttt tctacgcaag cggtcttcgc
+atttacgatc aacatcttat gaagtccttt ttgagcgaat attattctat ggaaaaatac
+aacat----- -tt------t ---------- ---------- -ttaaaagt- -----ctt--
+----tg---- --tt---aat aattttccgg ------cgat cctagggttg ctcaa-----
+-ggatccttt catacattat gttagatatc acggaagatg cattctggca acaaaggata
+cgccgcttcg gatgaataaa tggaaatatt attttgttaa tttatggcaa tgttattttt
+ccgtatggtt tcaatcgcaa aaggtcaat- -----ataaa tc------aa ttatctaaag
+a------taa tttcgagttt ctgggttatt t------gtc aagtttgcga ttaaaccctt
+tagtggtacg tagtcaaatg ctagaaaact catttctaat ------ggat aatgt-----
+-tagaatcaa attggataca aaaattccaa tttcttcaat tagtcgatca ttggctaaag
+ataaattttg taatgtatta gggcatccca ttagtaaagc gacctggacg gattcatcag
+attctgatat tctcaaccga tttgtgcgta tatgcagaaa tatttctcat tattacagcg
+gatcttcaaa aaaaaatcat ttgtatcgaa taaaatat-- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------
+>Liquidambar styraciflua|GPAGA 95
 ---------- ---------- ------aagc gttggattta aagctggtgt taaagattac
 aagttgactt -attatactc ctgactacga aaccaaagat acggatat-c ttggcagcat
 tccgagtaac tcctcaaccg ggagttccgc ctgaagaagc gggcgccgcg gtagcagccg
@@ -4073,7 +4011,7 @@ tatccgcaaa aaactacggc agagcggttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- -------aca tttaaattat gtgtcagata
 tactaatacc ccaccccatc catctggaaa tattggttca aacccttcga tactgggtga
 aagatgcttc ttctttgcat ttattacgat tcttt----- -ctctacgag t------atc
-gtaattggaa tag---tctt attaatc--- ---caaagaa atcca----- -t------tt
+gtaattggaa tag---tctt attaa----- -tccaaagaa atcca----- -t------tt
 tc-------- -gttttt--- ---tcaaaaa g---gaatca aagattattc ttgtttctat
 ataattctca tgtatatgaa tacgaatccg tcttcgtttt tcttcgtaac caatcttctc
 atttacgatc aacatcttct ggagcccttc ttgagcgaat atatttctat ggaaaaataa
@@ -4090,7 +4028,7 @@ attctgatat tatcgaccga tttgtgcgta tatgcagaaa tctttctcat tatcacagcg
 gatcctc--- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Macroptilium lathyroides
+>Macroptilium_lathyroides lathyroides|GPAGA 71
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctcagtatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc aggtgccgcg gtagccgccg
@@ -4104,7 +4042,7 @@ tatccgctaa gaattatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- --------ta tttaaatcat aagtcagata
 tacgaatacc ctatcctatc catctagaaa tcttggttca aatccttcga tattggataa
 aagatgtctc tttctttcat ttaataaggt tgttt----- -ttttattac t------att
-ataattggaa tag---tctt tttcctc--- ---caaaaaa atgga----- -tttc---ga
+ataattggaa tag---tctt tttcc----- -tccaaaaaa atgga----- -tttc---ga
 ct-------- -tttttt--- ---tcaaaaa g---gaatct aagaattttc ttgttcctat
 ataatttata tgtatgggaa tatgaatcta tctttctttt tctacgtaaa aaatcctctc
 agttacagtt aaaacatttt cgcgtttttt ttgagcgaat ttttttctat gaaaaagtaa
@@ -4121,7 +4059,7 @@ atttttatat tcttaaccgg tttttgcgca tatgcagaaa tttttctcat tatta-----
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Murdannia nudiflora
+>Murdannia_nudiflora nudiflora|GPAGA 113
 ---------- ---------- ------aagt gttggattta aagcgggtgt taaagattat
 aaattgactt -attatactc ctgagtacaa aaccaaggat actgatat-a ttggcagcat
 tccgagtaac tcctcaacca ggagttcccc ctgaggaagc aggggctgcg gtagctgctg
@@ -4152,7 +4090,7 @@ attatgatat tatcaatcga tttggccgta tatgtagaaa tctttctcat tattatggc-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Oxalis corniculata
+>Oxalis corniculata|rbcL
 ---------- ---------- ------aagt gttggattca aggccggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttcctc ctgaggaagc tggggcagcg gtagctgctg
@@ -4166,7 +4104,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct tcgcggtgga cttgatttta
 ccaaagatga tgaaaacgtg aactctcaac cattt----- ---------- -tgttcgttg
 tactaatacc ctatcccatc catatggaaa ttttggttca aattcttcgc tactgggcga
 aagatgcctc ttctttgcat ttagtacggc tcttt----- -ctccacgag t------att
-ctaagtggaa tag---tctt tttaatt--- ---caaagaa ttcta----- -g------tt
+ctaagtggaa tag---tctt tttaa----- -ttcaaagaa ttcta----- -g------tt
 cc-------- -attttt--- ---tcaaaga g---taatcc aagattgttc ttgttcctat
 ataattctta tgtatacgaa tacgaatcca ctcttctttt tctctgtaac caatcttctc
 atttacgatc aacatcttct cggatttttt ttgagcgaat gtatttttat ggaaaaatag
@@ -4183,7 +4121,7 @@ attctgatat tatggatcga tttgtgcgta tatgcagtaa tctttctcat tattata---
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Packera glabella
+>Packera glabella|rbcLa
 ---------- ---------- -------agt gttggattca aagcaggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacca ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -4214,7 +4152,7 @@ attctgatat tattgagcgc tttgggcgta tatacagaaa tctttctcat tatcatagt-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Parthenocissus quinquefolia
+>Parthenocissus_quinquefolia quinquefolia|GPAGA 90
 ---------- ---------- ------aagt gttggattca aagccggtgt taaagattac
 aaattgactt -attatactc ctgaatatga gaccaaacct actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ccgaagaagc aggggccgcg gtagctgctg
@@ -4228,7 +4166,7 @@ tatccgctaa gaactatggt agagcagttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- -tattacgat tcttt----- -ctacacgag t------atc
-ataattggaa tag---tatg attactc--- ---caaagaa atcaa----- -t------tt
+ataattggaa tag---tatg attac----- -tccaaagaa atcaa----- -t------tt
 cc-------- -attttt--- ---tcaaaaa a---gaatca aagatttttc ttattcctat
 ataattttca tgcatgtgaa tacgactcta tcttcatttt tctccgcaat caatcttatc
 atttacgatc aacatcttat ggagcccttc ttgggcgaat atttttctat ggaaaaatag
@@ -4245,7 +4183,7 @@ attatgatat tatcaaccga tttgtgcgta tatgcagaaa tatttc---- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Paspalum notatum
+>Paspalum_notatum notatum|rbcL
 atgtcaccac aaacagaaac taaagcaagt gttggattta aagctggtgt taaggattat
 aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccac ctgaagaagc aggggctgca gtagctgcgg
@@ -4259,7 +4197,7 @@ ataagttgaa caagtatggt cgtcctttat tgggatgtac tattaaacca aaattggg--
 ---------- ---------- ---------- ---------- ---------- -tatcacata
 tagaaatacc ctatcctatc catttagaaa tcctggttca actccttgaa taccggattc
 aagatgttcc gtctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attacgt--- ---caatgaa atcta----- -t------tt
+cgaattggaa tag---tctt attac----- -gtcaatgaa atcta----- -t------tt
 tt-------- -cttttg--- ---aaaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct gggaaaattg
@@ -4276,7 +4214,38 @@ attgggatat tattgatcat tttggtcgga tatgtagaaa tctttttcat tatcata---
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Physalis angulata
+>Paspalum_urvillei urvillei|rbcLa
+---------- ---------- -------agt gttggatttn aagctggtgt taaggattat
+aaattgactt -actacaccc cggagtacga aaccaaggat actgatat-c ttggcagcat
+tccgagtaac tcctcagccc ggggttccac ctgaagaagc aggggctgca gtagctgcgg
+aatcttctac tggtacatgg acaactgttt ggactgatgg acttaccagt cttgatcgtt
+acaaaggacg atgctatcac atcgaacccg ttcctgggga ggcagatcaa tatatctgtt
+atgtagctta tccattagac ctatttgaag agggttctgt tactaatatg tttacttcca
+tcgtgggtaa cgtatttggt ttcaaagcct tacgcgctct acgtttggag gatctacgaa
+ttccccctac ttattcaaaa actttccaag gtccgcctca cggtatccaa gttgaaaggg
+ataagttgaa caagtatggt cgtcctttat tgggatgtac tattaaaccc aaattgggat
+tatccgcaaa aaattacggt agagcgtgtt atgagtgtct a--------- ----------
+---------- ---------- ---------- ---------- ---------- -tatcacata
+tagaaatacc ctatcctatc catttagaaa tcctggttca actcgttgaa taccggattc
+aagatgttcc gtctttgcat ttattgcgat tcttt----- -ctcaactat t------att
+cgaattggaa tag---tctt attac----- -gtcaatgaa atcga----- -t------tt
+tt-------- -cttttt--- ---tcaaaag a---aaataa aagactattt cgattcctat
+ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
+gcttacgatt aacatcttct ggaacctttc tggaacgaat ccacttttct gggaaaattg
+aacat----- -tt------t ---------- ---------- -ggtgtaat- ----------
+---gta---- --cc-caggg ttttttcgga ------aaac cctatggttt tttat-----
+-ggatcctct tatgcattat gttcgatatc aaggaaaggc tattcttgca tcaaaaggca
+ctcctctttt gaagaagaaa tggaaatctt accttgtcaa tttctcgcaa tatttttttt
+ctttttggac tcgaccacaa aggatccgt- -----ctaaa cc------aa ttaacaaact
+c------ttg cttcgatttt ctggggtacc t------ttc cagtgtacca ataaatactt
+tgttagtaag gaatcaaatg ctggagaatt tttttctaat ------agat actcg-----
+-aatgaaaaa attcgatgcc atagtccttg ctactcccct cattggatcc ttatcaaaag
+ctcgattttg tactggatcg ggccatccta ttagtaaacc cgtttggacc gatttatcag
+attgggatat tattgatcat tttggtcgga tatgtagaaa tctttttcat tatcata---
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------
+>Physalis_angulata angulata|GPAGA 40
 ---------- ---------- ------aagt gttggattca aggctggtgt taaagagtac
 aaattgactt -attatactc ctgagtacca aaccaaggat actgatat-a ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc aggggccgcg gtagctgccg
@@ -4290,7 +4259,7 @@ tatctgctaa aaactacggt agagctgttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- -ctccacgaa t------att
-ggaatttgaa tag---tctt attactt--- ---caaagaa gcccg----- -g------tt
+ggaatttgaa tag---tctt attac----- -ttcaaagaa gcccg----- -g------tt
 ac-------- -tccttt--- ---tcaaaaa a---aaatca aagattcttc ttcttcttat
 ataattctta tgtatatgaa tgggaatcca ctttcgtctt tctacggaac caatcttctc
 atttacgatc aacatctttt ggagcccttc ttgaacgaat atatttctat ggaaaaatag
@@ -4307,7 +4276,7 @@ attctgatat tattgaccga tttgggcgta tatgcagaaa tctttttcat tattatagcg
 gatcttcaaa aaaaaagact ttatatcgaa taaaatatct acttcgcctt tcttgtgcta
 gaactttagc tcgtaaac-- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Portulaca amilis
+>Portulaca_amilis amilis|GPAGA 8
 ---------- ---------- ------aagt gttggattta aagcaggtgt taaagattac
 aaattgactt -attatactc ctgaatatca acccctggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgt cagaagaagc aggagccgca gtagctgccg
@@ -4338,7 +4307,7 @@ attctgatat tattgatcgc tttggtcgca tatctagaaa tctttttcat tattatagt-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Portulaca pilosa
+>Portulaca_pilosa pilosa|GPAGA 2
 ---------- ---------- ---------- ---------- ---------- --------ac
 aaattgactt nattatactc ctgaatatca acccctggat actgatntnn ttggcagcat
 tccgagtaac tcctcaacct ggagttccgt cagaagaagc aggagccgca gtagctgccg
@@ -4369,7 +4338,7 @@ attctgatat tattgatcgc tttggtcgca tatctagaaa tctttctcat tattatagt-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Pseudognaphalium obtusifolium
+>Pseudognaphalium obtusifolium|rbcLa|MG223125
 ---------- ---------- -------agt gttggattca aagcaggtgt taaagattat
 aaattgactt -attatactc ctgagtatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -4400,7 +4369,7 @@ attctgatat tattgagcgc tttgggcgta tatacagaaa tctttctcat tatcatagtg
 gatcttcaaa aaaaaagagt ttgtatcgag taaagtatat actcgac--- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Ptilimnium capillaceum
+>Ptilimnium capillaceum|GPAGA 207
 ---------- ---------- ------aggt gttggattca aagctggggt taaagattac
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ctgaagaagc gggggccgcg gtagctgccg
@@ -4431,7 +4400,7 @@ attccgatat tgttgtccga tttaggcgtc tatacagaaa tctttctcat tattatagt-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Quercus nigra
+>Quercus nigra|GPAGA 103
 ---------- ---------- ------aagt gttggattta aagcgggtgt taaagattat
 aaattgactt -attatactc ctgagtacaa aaccaaggat actgatat-a ttggcagcat
 tccgagtaac tcctcaacca ggagttcccc ctgaggaagc aggggctgcg gtagctgctg
@@ -4462,7 +4431,7 @@ attttgagat tatcaatcga tttttgcata tatgcagaaa tctttctcat tattacagc-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Silene antirrhina
+>RBPLT063-13|Silene antirrhina|rbcLa|MG248216
 ---------- ---------- -------agt gttggattta aagctggtgt taaagattac
 aaattgacgt -attatactc cggagtatga aaccctggat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ccgaagaagc tggggccgcc gtggccgccg
@@ -4476,7 +4445,7 @@ tatctgctaa aaactatggt cgagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ------gata
 tattaattcc ttaccccacc catctggaaa tcttagttca aacacttcgg tattgggtga
 aagatgcctc gtctttgcat ttattacgat tcttt----- -ctttatgag t------atc
-ataattggaa tag---tctt tttattc--- ---caaaaaa atcca----- -t------tt
+ataattggaa tag---tctt tttat----- -tccaaaaaa atcca----- -t------tt
 ct-------- -attttt--- ---ctaaaaa g---gaatca aagattattc ttgttcttat
 ataatttcca ggtatgtgaa tatgaatcca ttttcttttt tctttgcaac caatcctctc
 atttacgatc aacatcttat agagtgtttc ttgaacgcat ttatttctac gtaaaattag
@@ -4493,7 +4462,7 @@ attctgatat tattaatcga tttgggcgta tatgccgaaa tc-------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Richardia scabra
+>Richardia_scabra scabra|GPAGA 31
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagagtac
 aaattaactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacca ggagttccac cggaagaagc aggggccgcg gtagctgccg
@@ -4524,7 +4493,7 @@ attctgatat gattaatcgg tttgggtata tatgcagaaa cctttctcat tattatagc-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Rubus argutus
+>Rubus argutus|GPAGA 283
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attacactc cggactatga aaccaaagat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaggaagc aggggccgcg gtagctgcgg
@@ -4538,7 +4507,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 --------tc ttctttgcat ttattacggc tcttt----- -cttcacgag t------att
-ataattggaa tag---tctt attactc--- ---cccaaaa a--------- ---------t
+ataattggaa tag---tctt attac----- -tccccaaaa a--------- ---------t
 ct-------- -attttt--- ---gcaaaaa g---taatcc acgattattc ttgctcctat
 ataattctta tatatgtgaa tatgaatcca ttttactttt tctccgtaac caatctaatc
 atttacgatt aacctcttct gggatctttt ttgagcgaat atgtttttat gaaaaaagaa
@@ -4555,7 +4524,7 @@ attctgatat tatcgaccga tttgtgcgta taggc----- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sabal palmetto
+>Sabal palmetto|GPAGA 411
 ---------- ---------- ------aagt gctggattta aagctggtgt taaagattac
 aaattgactt -attatactc ctgactacga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaggaagc aggggcagcg gtagctgccg
@@ -4569,7 +4538,7 @@ tatccgcaaa gaactacggt agagcggttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 --------cc ttctttacat ttattgcgat tcttt----- -cttcacgaa t------atc
-ataattggaa tag---tctt attactc--- ---cgaataa ttcta----- -t------tt
+ataattggaa tag---tctt attac----- -tccgaataa ttcta----- -t------tt
 ttcctttttc acttttt--- ---tcaaaag a---aaataa aagactattt cggttcccat
 ataattctta tgtatctgaa tgcgaatttg tattagtttt tctttgtaaa caatcttctt
 atttacgatt aacatcttct ggagcttttc ttgagcgaac acatttctat ggaaaaatag
@@ -4586,7 +4555,7 @@ attgcgatat tattgatcga tttggtcgga tatgtagaaa tctttctcat tatcacagtg
 gatcctcaaa aaaacagagt ttgtatcgaa taaagtat-- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Salix nigra
+>Salix_nigra nigra|GPAGA 36
 ---------- ---------- ------aggt gttggattca aggctggtgt taaagattat
 aaattgactt -attatactc ctgaatatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccgc ccgaggaagc aggggccgcg gtagctgcgg
@@ -4600,7 +4569,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- -atccttcgc tattgggtga
 aagatccctc ctctttgcat ttattacgac tcttt----- -cttcacgag t------att
-ggaatttgaa cag---tcgt attagtc--- ---caaagaa atcta----- -t------tt
+ggaatttgaa cag---tcgt attag----- -tccaaagaa atcta----- -t------tt
 ct-------- -tttttt--- ---gcaaaaa a---gactcc aagattcttc ttgttcttat
 ataattctca tgtatatgaa tacgagtccg ttttcttttt tctttgtaat caatcctttc
 atttccgatt aacattttct caggtctttc ttgagcgaat atatttctat ggaaaaatag
@@ -4617,7 +4586,7 @@ attctgatat tatcgaccga tttgtccgta tatgcagaaa tctttctcat tattatagcg
 gatcctcaag aaaaaagagt ttgtatcgaa t--------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Plantago virginica
+>SDH1684-14|Plantago_2 virginica|rbcLa
 ---------- ---------- ---------- ---------- ---------- ----------
 -----gactt -attatactc ctgaatacga aaccaaagat actgatat-c ttggcagcat
 tccgagtatc tccgcaacct ggagttcccc ctgaagaagc aggggctgcg gtagcggccg
@@ -4631,7 +4600,7 @@ tatctgctaa aaactatggt agagcatgtt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----gggtaa
 aagatgcccc ttctttgcat ttcttacgat tcttt----- -ctcaacgag t------att
-g--------- gag---tctt agtactc--- ---taaagaa agctg----- -g------t-
+g--------- gag---tctt agtac----- -tctaaagaa agctg----- -g------t-
 ---------- ---------- ---ttaaaac g---aagtca aagattcttt ttattcttat
 ataattctta tgtatgtgaa tacgaatcca ttttcgtatt tttacgtaac caatcttttc
 atttacaatc aacatctttt ggagttcttc ttgaacgaat ctatttctat ggaaaaatag
@@ -4648,7 +4617,7 @@ a--------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Symphyotrichum puniceum
+>SERC119-14|Symphyotrichum puniceum|rbcLa|KP402688
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
@@ -4679,7 +4648,7 @@ attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
 gctctcaaa- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sesbania herbacea
+>Sesbania_herbacea herbacea|GPAGA 23
 ---------- ---------- ------aagt gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aacgaaagat actgatat-t ttggcagcat
 tccgagtaac tcctcaacca ggagttcctc ctgaagaagc gggtgctgcg gtagctgccg
@@ -4710,7 +4679,7 @@ attttgatat tattgatcga tttttgcgga tatgtagaaa tctttctcat tattacaat-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Spiranthes vernalis
+>Spiranthes vernalis|GPAGA 285
 ---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
 aaattgactt -attacactc cggactatga aaccaaagat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaggaagc aggggccgcg gtagctgcgg
@@ -4741,7 +4710,7 @@ attccgatat tcttgatcga ttttgtcgga tatgtagaaa tctttgtcgt tatcatagt-
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Sporobolus indicus
+>Sporobolus_indicus indicus|GPAGA 136
 ---------- ---------- ------aggt gttggatttc aagctggtgt taaagattat
 aaattgactt -actacaccc cggaatacga aaccaaggat actgatat-c ttggcagcat
 tccgagtaac tcctcagccc ggggttccgc ctgaagaagc aggggctgca gtagctgcgg
@@ -4755,7 +4724,7 @@ tatccgcaaa aaattatggt agagcatgct atgagtgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- --ttggttca actccttgaa taccggatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctcaactat t------att
-cgaattggaa tag---tctt attactt--- ---caatgaa atcca----- -t------tt
+cgaattggaa tag---tctt attac----- -ttcaatgaa atcca----- -t------tt
 tt-------- -cttttt--- ---tcaaaag a---aaataa aagactattt cgattcctat
 ataactctta tgtatcagaa tatgaatttt tcttgttgtt tcttcgtaaa caatcttctt
 ccttacgatt aatatcttct ggaacctttc tggaacgaat ccacttttct atgaagatgg
@@ -4772,7 +4741,7 @@ attgggatat tcttgatcgc tttggtcgga tatgtagaaa tctttttcat tatcatagtg
 gatcttcaaa aaaacaggct ttgtatcaac taaaatatat ac-------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Stellaria media
+>Stellaria media|GPAGA 427
 ---------- ---------- ------aagt gttggattta aagctggtgt taaagattac
 aaattgactt -attatactc ctgagtatga aaccctggat acggatat-c ttggcagcat
 tccgagtaag tcctcaaccc ggagttccac ccgaagaagc aggggccgca gtagccgccg
@@ -4786,7 +4755,7 @@ tatccgctaa aaactatggt cgcgcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- -tgttagata
 tattaatacc ttaccccgtc catctagaaa tcttggttca aacacttcgg tactgggtga
 aagatgcccc gtctttgcat ctattacgat tcttt----- -ctttatgaa t------atc
-ataattggaa tag---tc-- -taaaaa--- ---aaaaatt agata----- -t------at
+ataattggaa tag---tc-- -taaa----- -aaaaaaatt agata----- -t------at
 tt-------- -tttttt--- ---ctaaaaa g---gactca aagatttttt ttgttcttat
 ataatttcca tatatgtgaa catgaattga ttttattctt tctttgcaac caatcctctc
 atttacgatc aatatcttac agatcctttc ttgaacgcat ttttttctac ggaaaattag
@@ -4803,7 +4772,7 @@ attctgatat tattgatcga tttaggcgta tatgcagaaa tctttttcat tattata---
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Strophostyles helvola
+>Strophostyles_helvola helvola|GPAGA 18
 ---------- ---------- ------aagt gttgggttca aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc aggtgctgcg gtagccgccg
@@ -4817,7 +4786,7 @@ tatccgctaa gaattatggt agagcagttt atgaatgtct t--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ttaatcaggt tgttt----- -ttttattac t------att
-ataattggaa tag---tctt tttcttc--- ---caaaaaa atgga----- -tttc---ta
+ataattggaa tag---tctt tttct----- -tccaaaaaa atgga----- -tttc---ta
 ct-------- -tttttt--- ---tcaaaaa g---gaatct aagaattttc ttgttcctat
 ataatttata tgtatgggaa tatgaatcta tctttctttt tctacgtaaa aaatcctctc
 agttacagtt aaaacatttt cgcgtttttt ttgaacgaat ttttttctat gaaaaaataa
@@ -4834,7 +4803,38 @@ attttgatat tattgaccgg tttttgcgca tatgcagaaa tttttctcat tat-------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Trifolium arvense
+>Symphyotrichum_subulatum.2 subulatum|rbcLa|MG224254
+---------- ---------- ------aagt gttggattca aagctggtgt taaagattat
+aaattgactt -attatactc cggaatatga aaccaaggat actgatat-c ttggcagcat
+ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggccgca gtagctgccg
+aatcttctac tggtacatgg acaactgtgt ggaccgatgg acttacgagc cttgatcgtt
+acaaagggcg atgctatgga atcgagcctg ttcctggaga agaaaatcaa tttattgctt
+atgtagctta cccattagac ctttttgaag aaggttctgt tactaacatg tttacttcca
+ttgtaggtaa tgtatttggg ttcaaagccc tgcgtgctct acgtctggaa gatttgcgaa
+tccctactgc gtatgttaaa actttccaag gtccgcctca cggcatccaa gttgagagag
+ataaattgaa caagtatggt cgtcccctgt tgggctgtac tattaaacct aaattggggt
+tatccgctaa aaactacggt agagctgttt atgaatgtct t--------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+--gatgcttc ctctttgcat ttattaagat tcttt----- -ctccatcag t------gtc
+ataattggga tag---tctt attacttcaa attcaaagaa agcca----- -g------tt
+ct-------- -tctttttca aaatcaaaaa g---aaatca gagattattc ttcttcctat
+atacttttca tgtatgtgaa tatgaatccg gcttcctctt tctccgtaac caatcttctc
+acttacgatc aacatcctct ggagccctta ttgaacgaat ttatttctat ggaaaaagag
+agca------ ---------- ---------- ---------- ---------- -----ctt--
+----tc---- --cc---ggg gcttttcaag ------caaa tttatggttg ttcaa-----
+-agatccttt catgcattat gttaggtatc aaggaaaatc aattcttgct ttaaaaggga
+cgtttcttct gatgaataaa tggaaacatt actttgtcaa tttctggaaa tcctattttt
+acctgtggtc tcaaccagga aggatttat- -----ataaa cc------aa ttatccaatc
+a------ttc ccttgacttt ctgggttatc a------ttc aagtgtgcgg ctaaagcctt
+caatggtacg tagtcaaatg ttagaaaatg cgtttctaat ------cgat aatgc-----
+-tattaagaa gtttgatact cttgttccaa ttatgcctct ggttggatca ttggctaaat
+tgaaattttg taacgcattg gggcatccta ttggtaaggc ggtttgggcc gatttatcag
+attctgatat tattgagcgc tttgggcgta tacacagaaa tctttctcat tatcatagtg
+gctcttcaaa aaaaaagagt ttgtatcaag taaagtatat ac-------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------
+>Trifolium_arvense arvense|rbcLa|MG247240
 ---------- ---------- -------cag gttgggttca aagctggtgt taaagattat
 aggttgactt -attatactc ctgactatga aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc aggtgcagcg gtagctgccg
@@ -4848,7 +4848,7 @@ tatccgctaa gaattacggt agagcagttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- ---------- ---------- -tctcagata
 taagaatacc ctatcctatc catccggaaa tcttagttca aatccttcga tactgggtga
 aagatgcccc cttttttcat ttattacggt tgttt----- -ctttatcat t------ttt
-gtaattggaa tcg---tttt attacta--- ---ccaaaaa atcaa----- -tttctcctt
+gtaattggaa tcg---tttt attac----- -taccaaaaa atcaa----- -tttctcctt
 ct-------- -actttt--- ---tcaaaaa g---taatcc aagattattc ttgttcctct
 ataattttta tgtatgtgaa tatgaatcta tcttcctgtt tctacgtaat aaatcctctc
 atttacgatt aaaatctttt agcgtttttt tagagcgaat ttttttttat ggaaaaagag
@@ -4865,7 +4865,7 @@ attttgatat tattgagcga tttttgcgaa tatgcagaaa tctttctcat tattaca---
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Typha domingensis
+>Typha_domingensis domingensis|GPAGA 130
 ---------- ---------- ------aagt gctggattta aagctggtgt taaagattac
 aaattgactt -attatactc ctgaatacga aaccaaggat actgatat-c ttggcagcat
 ttcgagtaac tcctcaacct ggagttccgc ctgaagaagc aggggctgcg gtagctgccg
@@ -4879,7 +4879,7 @@ tatccgcaaa gaactacggt agggcggttt atgaatgtct a--------- ----------
 ---------- ---------- ---------- -----tatca cattaactat atctcggata
 tactaatacc ccatcctatc catttggaaa tcttggttca aatccttcaa tgtcggatcc
 aagatgttcc atctttgcat ttattgcgat tcttt----- -ctccacgaa t------atc
-ataattggaa tag---tctc attactt--- ---cgaagaa atcta----- -t------tt
+ataattggaa tag---tctc attac----- -ttcgaagaa atcta----- -t------tt
 ac-------- -gttttt--- ---tcaaaag a---aaataa aagactattt agattactat
 ataattttta tgtattcgaa tgtgaatttg tattcgtttt tcttcgtaaa caatcttctt
 atttacgatt aacatctttt ggaacttttc ttgagcgaat acatttctat ggaaaaatag
@@ -4896,7 +4896,7 @@ attgtgatat tattgatcgc tttggtcgga tatgtagaag tctttctcat tattata---
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Vigna luteola
+>Vigna luteola|GPAGA 392
 ---------- ---------- ------aagt gttgggttta aagctggtgt taaagattat
 aaattgactt -attatactc ctgactatca aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaacct ggagttccac ctgaagaagc aggtgccgcg gtagccgccg
@@ -4927,7 +4927,7 @@ attttgatat tcttgaccgg tttttgcgca tatgcagaaa tttttctcat tattacaacg
 gatc------ ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------
->Vicia sativa
+>VPSBC1007-13|Vicia sativa|rbcLa|KX678724
 ---------- ---------- -------aag gttgggttcc aagctggtgt gaaagattat
 aaattgactt -attatactc ctgaatatca aaccaaagat actgatat-c ttggcagcat
 tccgagtaac tcctcaaccc ggagttccgc ctgaagaagc aggtgcagcg gtagctgcag
@@ -4941,7 +4941,7 @@ tatccgctaa gaattatggt agagcagttt atgaatgtct c--------- ----------
 ---------- ---------- ---------- ---------- ---------- ----------
 --------cc ctatcctatc catctggaaa tcttagttca aatccttcga tactgggtga
 aagatgcccc tttttttcat ttattacggc tgttt----- -cttt----- ----------
-gtaattggaa tag---tttt cttacta--- ---ccaaaaa atcaa----- -t------tt
+gtaattggaa tag---tttt cttac----- -taccaaaaa atcaa----- -t------tt
 ct-------- -actttt--- ---tcaaaaa g---tcatcc aagattcttc ttgttcctct
 ataattttta tgtatgtgaa tatgaatcta tcttcgtttt tctacgtaag aaatcctctc
 atttacaatt aaaatctttt agcgtttttt ttgagcgaat ttttttttat ccaaaaagag

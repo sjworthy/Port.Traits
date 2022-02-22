@@ -1,4 +1,4 @@
-setwd("~/Desktop/Invasive.Signal/Invasive.Signal/phylos/New.phylo/No.fern.gymno.both.seq.Ginkgo")
+setwd("/Users/samanthaworthy/Documents/Invasive.Signal/Invasive.Signal/Manuscript/revised.ms.phylo")
 
 # Tree with only species that have rbcL and matK
 
@@ -30,7 +30,6 @@ write.dna(new.concat, "new.concat.fasta", format="fasta")
 
 both.seq.concat=read.phyDat("new.concat.fasta", format = "fasta", type="DNA")
 
-
 # Modeltest
 
 modelTest(both.seq.concat) # GTR + G + I is the best
@@ -58,69 +57,7 @@ write.tree(both.seqtree.rooted, file="both.seq.tree.bs.txt")
 
 plot(both.seqtree.rooted, cex=0.3)
 
-# Tree with all species
-
-# Building the phylogenies
-
-# export .fasta files from Geneious
-
-# run MAFFT alignment in Terminal
-# place .fasta files into home/username folder
-# Terminal code = mafft final.rbcl.fasta > new.rbcl.aln.fasta
-# Terminal code = mafft final.matk.fasta > new.matk.aln.fasta
-
-
-# Add sequences that only had (2) rbcL or (2)matk to the concatenated alignment in Terminal
-# first add rbcL sequences
-# second add matk sequences
-
-# mafft --auto --addfragments only.rbcl.fasta new.concat.fasta>plus.rbcl.aln.fasta
-# mafft --auto --addfragments only.matk.fasta plus.rbcl.aln.fasta>new.all.seq.aln.fasta
-
-
-# Alignment Strategy Used = FFT-NS-2
-
-# Read in alignments and concatenate them
-
-all.seq.aln=read.phyDat("new.all.seq.aln.fasta", format = "fasta", type="DNA")
-
-# Modeltest
-
-modelTest(all.seq.aln) # GTR + G + I is the best
-
-# Maximum likelihood tree
-
-dist.all.seq=dist.logDet(all.seq.aln)
-all.seq.nj.tree=NJ(dist.all.seq)
-all.seq.ml.model=pml(all.seq.nj.tree, all.seq.aln)
-all.seq.ml.tree=optim.pml(all.seq.ml.model, model="GTR", optGamma = TRUE, optInv = TRUE)
-all.seq.optim.ml.tree=optim.pml(all.seq.ml.model, model="GTR", optGamma = TRUE, optInv = TRUE, optNni = TRUE)
-all.seq.optim.ml.tree.rooted=root(all.seq.optim.ml.tree$tree, outgroup="Ginkgo biloba|rbcLa|KX283354", resolve.root=T)
-
-plot(all.seq.optim.ml.tree.rooted, cex=0.3)
-
-write.tree(all.seq.optim.ml.tree.rooted, file="test.tree.txt")
-
-# Bootstrap trees
-# Remove NA node labels in text editor
-
-new.all.seq.boot=bootstrap.pml(all.seq.optim.ml.tree, bs=1000, optNni=TRUE)
-new.all.seq.bootsrooted <- lapply(new.all.seq.boot, function(x) root(x, resolve.root=TRUE, outgroup="Ginkgo biloba|rbcLa|KX283354"))
-class(new.all.seq.bootsrooted) <- "multiPhylo"
-
-write.tree(new.all.seq.bootsrooted, file = "new.all.seq.bootsrooted.txt")
-
-new.all.seqtree=plotBS(all.seq.optim.ml.tree$tree, new.all.seq.bootsrooted, p=75, type="phylo")
-
-new.all.seqtree.rooted=root(new.all.seqtree, outgroup="Ginkgo biloba|rbcLa|KX283354", resolve.root=T)
-
-new.all.seqtree.rooted$tip.label=all.tips
-write.tree(new.all.seqtree.rooted, file="new.all.seq.tree.bs.txt")
-
-
-
 # Phylogenetic Signal
-setwd("~/Desktop/Invasive.Signal/Invasive.Signal/phylos")
 
 library(phangorn)
 
@@ -147,39 +84,62 @@ row.names(dispersal.matrix)=dispersal.tree$tip.label
 write.csv(dispersal.matrix, file="dispersal.matrix.csv")
 
 dispersal.matrix=read.csv("dispersal.matrix.csv", row.names = 1, header=T)
+dispersal.matrix.all=read.csv("dispersal.matrix.all.csv", row.names = 1, header=T)
+
 
 dispersal.OBS.null <- c(NA)
 for(i in 1:999){
   rand.tree = tipShuffle(dispersal.tree)
-  obs=t(data.frame(dispersal.matrix))
+  obs=t(data.frame(dispersal.matrix.all))
   obs2<-phyDat(t(obs),type="USER",levels=attributes(factor(obs))$levels)
   dispersal.OBS.null[i]<-parsimony(rand.tree,obs2,method="sankoff")
 }
 
 disperse.obs.real = parsimony(dispersal.tree,obs2,method="sankoff")
-# 68
+# 68 for all data
+# 84 when traits split by native/nonnative
 
 p.value = (rank(c(disperse.obs.real,dispersal.OBS.null))[1])/1000
-# p = 0.002
-
+# p = 0.002 for all data
+# p = 0.001 when traits split by native/nonnative
 
 library(picante)
 
 dispersal.trait.df=read.csv("dispersal.trait.df.csv", row.names = 1, header = T)
 colnames(dispersal.trait.df)=dispersal.tree$tip.label
 
-dispersal.ses.mpd=ses.mpd(dispersal.trait.df, cophenetic(dispersal.tree), 
-                          null.model = "taxa.labels", runs = 999, iterations = 1000)
+dispersal.trait.df.all=read.csv("dispersal.trait.df.all.csv", row.names = 1, header = T)
+colnames(dispersal.trait.df.all)=dispersal.tree$tip.label
 
+dispersal.ses.mpd=ses.mpd(dispersal.trait.df.all, cophenetic(dispersal.tree), 
+                          null.model = "taxa.labels", runs = 999, iterations = 1000)
+# for all data
+# Anemochory is clustered p = 0.001, lower than expected mpd, clustered
 # Polychory is overdispersed p = 0.999, higher than expected mpd, overdispersion
-# Anemochory is clustered p = 0.002, lower than expected mpd, clustered
+
+# when traits split by native/nonnative
+# Anemochory is clustered p = 0.001, lower than expected mpd, clustered (same as above)
+# Autochory.NN clustered p = 0.049, lower than expected mpd, clustered
+# Polychory.NN is overdispersed p = 0.997, higher than expected mpd, overdispersion
+
 
 write.csv(dispersal.ses.mpd, file="dispersal.ses.mpd.csv")
+write.csv(dispersal.ses.mpd, file="dispersal.ses.mpd.all.csv")
 
-dispersal.ses.mntd=ses.mntd(dispersal.trait.df, cophenetic(dispersal.tree), 
+
+dispersal.ses.mntd=ses.mntd(dispersal.trait.df.all, cophenetic(dispersal.tree), 
                           null.model = "taxa.labels", runs = 999, iterations = 1000)
+write.csv(dispersal.ses.mntd, file="dispersal.ses.mntd.csv")
+write.csv(dispersal.ses.mntd, file="dispersal.ses.mntd.all.csv")
 
-# Zoochory is clustered p = 0.013, lower than expected mntd, clustered
+# for all data
+# Anemochory is clustered p = 0.039, lower than expected mpd, clustered
+# Zoochory is clustered p = 0.007, lower than expected mntd, clustered
+
+# when traits split by native/nonnative
+# Anemochory is clustered p = 0.012, lower than expected mpd, clustered
+# Autochory.NN clustered p = 0.034, lower than expected mpd, clustered
+# Polychory is overdispersed p = 0.972, higher than expected mpd, overdispersion
 
 # Plot Dispersal
 
@@ -187,8 +147,8 @@ dispersalmode=as.factor(setNames(dispersal.matrix[,1], row.names(dispersal.matri
 dotTree(dispersal.tree, dispersalmode, colors = setNames(c("blue","red", "black","gray", "orange"),
                                                          c("Anemochory", "Autochory", "Hydrochory", "Polychory", "Zoochory")),
         ftype="i", fsize=0.7)
-library(phytools)
 
+library(phytools)
 
 
 # POLLINATION
@@ -214,39 +174,57 @@ row.names(pollination.matrix)=pollination.tree$tip.label
 write.csv(pollination.matrix, file="pollination.matrix.csv")
 
 pollination.matrix=read.csv("pollination.matrix.csv", row.names = 1, header=T)
+pollination.matrix.all=read.csv("pollination.matrix.all.csv", row.names = 1, header=T)
+
 
 pollination.OBS.null <- c(NA)
 for(i in 1:999){
   rand.tree = tipShuffle(pollination.tree)
-  obs=t(data.frame(pollination.matrix))
+  obs=t(data.frame(pollination.matrix.all))
   obs2<-phyDat(t(obs),type="USER",levels=attributes(factor(obs))$levels)
   pollination.OBS.null[i]<-parsimony(rand.tree,obs2,method="sankoff")
 }
 
 pollination.obs.real = parsimony(pollination.tree,obs2,method="sankoff")
-# 50
-
+# 50 for all data
+# 69 when traits split by native/nonnative
 pollination.p.value = (rank(c(pollination.obs.real,pollination.OBS.null))[1])/1000
-# p = 0.001
+# p = 0.001 for all data
+# p = 0.001 when traits split by native/nonnative
 
 pollination.trait.df=read.csv("pollination.trait.df.csv", row.names = 1, header = T)
 colnames(pollination.trait.df)=pollination.tree$tip.label
 
-pollination.ses.mpd=ses.mpd(pollination.trait.df, cophenetic(pollination.tree), 
+pollination.trait.df.all=read.csv("pollination.trait.df.all.csv", row.names = 1, header = T)
+colnames(pollination.trait.df.all)=pollination.tree$tip.label
+
+pollination.ses.mpd=ses.mpd(pollination.trait.df.all, cophenetic(pollination.tree), 
                           null.model = "taxa.labels", runs = 999, iterations = 1000)
 
-
-# Zoophily is clumped p = 0.001, lower than expected mpd
+# for all data
 # Selfing is overdispersed p = 0.981, higher than expected mpd
+# Zoophily is clumped p = 0.001, lower than expected mpd
+
+# when traits split by native/nonnative
+# Anemophily.NN is clumped p = 0.001, lower than expected mpd
+# Selfing.NN is overdispered p = 0.994, higher than expected mpd
+# Zoophily is clumped p = 0.001, lower than expected mpd (same as above)
 
 write.csv(pollination.ses.mpd, file="pollination.ses.mpd.csv")
+write.csv(pollination.ses.mpd, file="pollination.ses.mpd.all.csv")
 
-pollination.ses.mntd=ses.mntd(pollination.trait.df, cophenetic(pollination.tree), 
+pollination.ses.mntd=ses.mntd(pollination.trait.df.all, cophenetic(pollination.tree), 
                             null.model = "taxa.labels", runs = 999, iterations = 1000)
-# Anemophily is clumped p = 0.005, lower than expected mntd
+# for all data
+# Anemophily is clumped p = 0.001, lower than expected mntd
+
+# when traits split by native/nonnative
+# Anemophily is clumped p = 0.004, lower than expected mntd
+# Anemophily.NN is clumped p = 0.016, lower than expected mntd
+# Zoophily is clumped p = 0.024, lower than expected mntd
 
 write.csv(pollination.ses.mntd, file="pollination.ses.mntd.csv")
-
+write.csv(pollination.ses.mntd, file="pollination.ses.mntd.all.csv")
 
 # DURATION
 
@@ -266,32 +244,53 @@ row.names(duration.matrix)=duration.tree$tip.label
 write.csv(duration.matrix, file="duration.matrix.csv")
 
 duration.matrix=read.csv("duration.matrix.csv", row.names = 1, header=T)
+duration.matrix.all=read.csv("duration.matrix.all.csv", row.names = 1, header=T)
+
 
 duration.OBS.null <- c(NA)
 for(i in 1:999){
   rand.tree = tipShuffle(duration.tree)
-  obs=t(data.frame(duration.matrix))
+  obs=t(data.frame(duration.matrix.all))
   obs2<-phyDat(t(obs),type="USER",levels=attributes(factor(obs))$levels)
   duration.OBS.null[i]<-parsimony(rand.tree,obs2,method="sankoff")
 }
 
 duration.obs.real = parsimony(duration.tree,obs2,method="sankoff")
-# 58
+# 58 for all data
+# 81 when traits split by native/nonnative
 
 duration.p.value = (rank(c(duration.obs.real,duration.OBS.null))[1])/1000
-# p = 0.001
+# p = 0.0015 for all data
+# p = 0.001 when traits split by native/nonnative
 
 duration.trait.df=read.csv("duration.trait.df.csv", row.names = 1, header = T)
 colnames(duration.trait.df)=duration.tree$tip.label
 
-duration.ses.mpd=ses.mpd(duration.trait.df, cophenetic(duration.tree), 
-                            null.model = "taxa.labels", runs = 999, iterations = 1000)
-# Nothing Significant
+duration.trait.df.all=read.csv("duration.trait.df.all.csv", row.names = 1, header = T)
+colnames(duration.trait.df.all)=duration.tree$tip.label
 
-duration.ses.mntd=ses.mntd(duration.trait.df, cophenetic(duration.tree), 
+duration.ses.mpd=ses.mpd(duration.trait.df.all, cophenetic(duration.tree), 
+                            null.model = "taxa.labels", runs = 999, iterations = 1000)
+# Nothing Significant for all data
+
+# when traits split by native/nonnative
+# Multiple is clumped, p = 0.002, lower than expected mpd
+
+write.csv(duration.ses.mpd, file = "duraction.ses.mpd.csv")
+write.csv(duration.ses.mpd, file = "duraction.ses.mpd.all.csv")
+
+
+duration.ses.mntd=ses.mntd(duration.trait.df.all, cophenetic(duration.tree), 
                               null.model = "taxa.labels", runs = 999, iterations = 1000)
 
-# Annual is clumped, p = 0.011, mntd lower than expected
+write.csv(duration.ses.mntd, file = "duraction.ses.mntd.csv")
+write.csv(duration.ses.mntd, file = "duraction.ses.mntd.all.csv")
+
+# for all data
+# Annual is clumped, p = 0.024, mntd lower than expected
+
+# when traits split by native/nonnative
+# Perennial clumped, p = 0.025, mntd lower than expected
 
 # GROWTH HABIT
 
@@ -311,41 +310,66 @@ row.names(ghabit.matrix)=ghabit.tree$tip.label
 write.csv(ghabit.matrix, file="ghabit.matrix.csv")
 
 ghabit.matrix=read.csv("ghabit.matrix.csv", row.names = 1, header=T)
+ghabit.matrix.all=read.csv("ghabit.matrix.all.csv", row.names = 1, header=T)
+
 
 ghabit.OBS.null <- c(NA)
 for(i in 1:999){
   rand.tree = tipShuffle(ghabit.tree)
-  obs=t(data.frame(ghabit.matrix))
+  obs=t(data.frame(ghabit.matrix.all))
   obs2<-phyDat(t(obs),type="USER",levels=attributes(factor(obs))$levels)
   ghabit.OBS.null[i]<-parsimony(rand.tree,obs2,method="sankoff")
 }
 
 ghabit.obs.real = parsimony(ghabit.tree,obs2,method="sankoff")
-# 30
+# 29 for all data
+# 60 when traits split by native/nonnative
 
 ghabit.p.value = (rank(c(ghabit.obs.real,ghabit.OBS.null))[1])/1000
-# p = 0.001
+# p = 0.001 for all data
+# p = 0.001 when traits split by native/nonnative
 
 ghabit.trait.df=read.csv("ghabit.trait.df.csv", row.names = 1, header = T)
 colnames(ghabit.trait.df)=ghabit.tree$tip.label
 
-ghabit.ses.mpd=ses.mpd(ghabit.trait.df, cophenetic(ghabit.tree), 
+ghabit.trait.df.all=read.csv("ghabit.trait.df.all.csv", row.names = 1, header = T)
+colnames(ghabit.trait.df.all)=ghabit.tree$tip.label
+
+ghabit.ses.mpd=ses.mpd(ghabit.trait.df.all, cophenetic(ghabit.tree), 
                          null.model = "taxa.labels", runs = 999, iterations = 1000)
+# for all data
 # Forb, clumped p = 0.001, lower than expected mpd
 # Graminoid, clumped p = 0.001, lower than expected mpd
-# Multiple, clumped p = 0.003, lower than expected mpd
-# Tree, clumped p = 0.014, lower than expected mpd
-# Vine, clumped p = 0.019, lower than expected mpd
+# Multiple, clumped p = 0.004, lower than expected mpd
+# Tree, clumped p = 0.016, lower than expected mpd
+# Vine, clumped p = 0.021, lower than expected mpd
+
+# when traits split by native/nonnative
+# Forb, clumped p = 0.001, lower than expected mpd (same as above)
+# Forb.NN, clumped p = 0.035, lower than expected mpd
+# Graminoid, clumped p = 0.001, lower than expected mpd
+# Graminoid.NN, clumped p = 0.001, lower than expected mpd
+# Multiple, clumped p = 0.007, lower than expected mpd
 
 write.csv(ghabit.ses.mpd, file="ghabit.ses.mpd.csv")
+write.csv(ghabit.ses.mpd, file="ghabit.ses.mpd.all.csv")
 
-ghabit.ses.mntd=ses.mntd(ghabit.trait.df, cophenetic(ghabit.tree), 
+
+ghabit.ses.mntd=ses.mntd(ghabit.trait.df.all, cophenetic(ghabit.tree), 
                            null.model = "taxa.labels", runs = 999, iterations = 1000)
 
-# Forb, clumped p = 0.008, lower than expected mntd
+# for all data
+# Forb, clumped p = 0.018, lower than expected mntd
 # Graminoid, clumped p = 0.001, lower than expected mntd
 
+# when traits split by native/nonnative
+# Forb, clumped p = 0.009, lower than expected mntd
+# Graminoid, clumped p = 0.001, lower than expected mntd
+# Graminoid.NN, clumped p = 0.001, lower than expected mntd
+
 write.csv(ghabit.ses.mntd, file="ghabit.ses.mntd.csv")
+write.csv(ghabit.ses.mntd, file="ghabit.ses.mntd.all.csv")
+
 
 # STATUS
 # binary trait so use phylo.d
